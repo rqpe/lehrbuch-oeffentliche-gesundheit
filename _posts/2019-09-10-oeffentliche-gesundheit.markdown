@@ -4,41 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2019-09-10 17:16:24 +0200
 categories: jekyll update
 ---
-<!----- Conversion time: 17.139 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β17
-* Tue Sep 10 2019 08:23:20 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/open?id=1XreT5vif6bl9hJ6THVQkWE-et1pKkfJpa4u7cmMqmPY
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 ## Lehrbuch: ÖGD
 
 
@@ -406,12 +371,7 @@ Abb. Anzahl Gesundheitsämter in Bundesländern und Anzahl Einwohner pro Gesundh
 
 Im internationalen (englischen) Sprachgebrauch entspricht ein „Gesundheitsamt” einer „Health Authority“ und „eine Fachärztin/ein Facharzt für Öffentliches Gesundheitswesen” einer/einem „Medical specialist for public health care“ bzw. “Consultant in Public Health”. Von den 385.149 in Deutschland im Jahr 2017 berufstätigen Ärzten/innen waren etwa 2.400 Ärzte/innen im ÖGD tätig, davon waren 785 (0,2 Prozent) Fachärzte/innen für Öffentliches Gesundheitswesen (Quelle: www.gbe-bund.de., abgerufen Mai 2019). 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD0.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image0.png "image_tooltip")
 
 
 Abb. Anzahl tätige Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen  
@@ -445,12 +405,12 @@ Bevor sich diese Definition durchsetzte war ein Mensch im Allgemeinen als gesund
 Unter öffentlicher Gesundheit wird die Gesundheit aller Menschen in einem Zeitraum in einem festgelegten geographischen Raum, unabhängig von Faktoren wie Staatsbürgerschaft oder Nationalität verstanden. Dabei handelt es sich um die Bestandsaufnahme eines Zustands und weder um eine wissenschaftliche Theorie, noch um gesundheitspolitische Maßnahmen.
 
 
+
 ### Gesundheitswesen (synonym: Gesundheitssystem)
 
 Hierbei handelt es sich um einen übergeordneten Begriff für alle staatlichen, kommunalen und privaten Einrichtungen, Organisationen oder natürlichen Personen, die im Sinne der Gesundheit der Menschen tätig sind und sich mit der Aufrechterhaltung der[ Gesundheit](https://flexikon.doccheck.com/de/Gesundheit) der[ Bevölkerung](https://flexikon.doccheck.com/de/Bev%C3%B6lkerung), sowie der[ Prophylaxe](https://flexikon.doccheck.com/de/Prophylaxe),[ Diagnose](https://flexikon.doccheck.com/de/Diagnose) und[ Therapie](https://flexikon.doccheck.com/de/Therapie) von[ Erkrankungen](https://flexikon.doccheck.com/de/Erkrankung) beschäftigen. 
 
 An der Gestaltung und Funktion des Gesundheitswesens Beteiligte sind:
-
 
 
 *   der Staat mit seiner Gesetzgebung und seinen öffentlichen Körperschaften
@@ -538,11 +498,7 @@ Darüber hinaus wird in Diskussionen zur Begriffsbestimmung von Public Health, d
 ### Old and New Public Health 
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD1.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image1.png "image_tooltip")
 
 
 [Abb. aus:  [Hurrelmann, Razum, Handbuch Gesundheitswissenschaften, ISBN 978-3-7799-0797-8 © 2012 Beltz Juventa Verlag, Weinheim Basel]
@@ -564,11 +520,7 @@ Weitere Schritte in Richtung einer verstärkten interdisziplinären Zusammenarbe
 Auch weisen bereits viele praktische Arbeitsgebiete des ÖGD, wie etwa medizinischen Versorgung von Geflüchteten, mentale Gesundheit und antimikrobielle Resistenzen, heute in Zeiten einer zunehmend globalisierten Welt untrennbar wichtige Aspekte von Öffentlicher Gesundheit mit den Aspekten einer Globaler Gesundheit auf, die bereits lange integriert sind, auch wenn sie möglicherweise nicht immer primär als solche wahrgenommen werden. Auch wurden beispielsweise 2017 auf der Jahrestagung des Berufsverband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes (BVÖGD) das Thema “Global Health” als eine mögliche Zukunftsperspektive im Rahmen der Diskussion zum Leitbilds des ÖGD diskutiert [Ref_ h[ttps://www.lgl.bayern.de/aus_fort_weiterbildung/veranstaltungen/kongresse_veranstaltungen/doc/oegd_kongress_2017/gesundheit-fuer-alle_oegd-kongress_2017_barrierefrei_final.pdf](https://www.lgl.bayern.de/aus_fort_weiterbildung/veranstaltungen/kongresse_veranstaltungen/doc/oegd_kongress_2017/gesundheit-fuer-alle_oegd-kongress_2017_barrierefrei_final.pdf). 
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD2.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image2.png "image_tooltip")
 
 
 
@@ -866,7 +818,7 @@ Lokale Ausbrüche von Erkrankungen werden eher selten auch überregional wahrgen
 
 #### Impfwesen
 
-Die Gesundheitsämter informieren die Bevölkerung über die Bedeutung von Schutzimpfungen und anderen Maßnahmen der spezifischen Prophylaxe übertragbarer Krankheiten. Sie haben auch auf die Erhöhung der Impfquoten für öffentlich empfohlene Schutzimpfungen hinzuwirken (siehe z.B. § 10 GDG Schleswig-Holstein). 
+Die Gesundheitsämter informieren die Bevölkerung über die Bedeutung von Schutzimpfungen und anderen Maßnahmen der spezifischen Prophylaxe übertragbarer Krankheiten. Sie haben auch auf die Erhöhung der Impfquoten für öffentlich empfohlene Schutzimpfungen hinzuwirken (siehe z.B. JurParagraph 10 GDG Schleswig-Holstein). 
 
 Sie erfassen, beurteilen und beraten zum Impfstatus entsprechend den aktuellen STIKO-Empfehlungen zu Standard- und Reiseimpfungen. Sie erstellen einen Impfplan anhand vorgelegter Impfdokumente und erläutern die Dauer und Wirkung des Impfschutzes. 
 
@@ -875,7 +827,7 @@ Nach Ausschluss von Kontraindikationen führen sie Impfungen gegen  impfprävent
 
 #### Infektionshygienische Überwachung
 
-Ein großer Aufgabenbereich der unteren Gesundheitsbehörden ist die infektionshygienische Überwachung medizinischer und nicht medizinischer Einrichtungen laut  §§ 23 und 36 Infektionsschutzgesetz. 
+Ein großer Aufgabenbereich der unteren Gesundheitsbehörden ist die infektionshygienische Überwachung medizinischer und nicht medizinischer Einrichtungen laut  JurParagraphJurParagraph 23 und 36 Infektionsschutzgesetz. 
 
 Mit der Änderung des Infektionsschutzgesetzes im Jahr 2011 wurden die Bundesländer verpflichtet, Landeshygieneverordnungen über Hygiene und Infektionsprävention in medizinischen Einrichtungen zu erlassen. Zudem wird  auch in anderen Gesetzen  die Verpflichtung zur Hygieneüberwachung geregelt, wie z.B. in den Gesundheitsdienstgesetzen der Länder und der bundesweit geltenden Trinkwasserverordnung. 
 
@@ -1092,7 +1044,7 @@ Die ZÄD der Gesundheitsämter führen in Kitas und Schulen Untersuchungen zur F
 
 Eine zahnärztliche Betreuung der Bevölkerung – insbesondere von Kindern und Jugendlichen -  durch einen ZÄD ist unverzichtbar. Trotz Rückgang des Kariesbefalls (engl. „caries decline“) weist in Abhängigkeit vom sozialen Status etwa ein Viertel der Kinder und Jugendlichen immer noch schwere Schäden im Gebiss auf, mit Folgen für ihre gesamte gesundheitliche Entwicklung. Weitere Teile der jugendlichen Bevölkerung zeigen vermeidbare Risikofaktoren und/oder frühe Anzeichen zukünftiger Schäden.
 
-Ein besonderer Schwerpunkt, mit denen die ZÄD an den Gesundheits- ämtern auf Basis der Gesundheitsdienstgesetze der Länder und der Regelungen des § 21 Sozialgesetzbuch V betraut sind, ist die zahnmedizinische Gruppenprophylaxe, die als Gemeinschaftsaufgabe von ÖGD und Krankenkassen vorgesehen ist. Hierzu werden auf Landes- und kommunaler Ebene entsprechende Rahmenvereinbarungen geschlossen. Die Gesundheitsämter stützen sich dabei sowohl auf angestellte und verbeamtete Zahnärztinnen und Zahnärzte sowie geschultes Prophylaxepersonal, zum Teil binden sie auch örtlich tätige Zahnarztpraxen mit ein.
+Ein besonderer Schwerpunkt, mit denen die ZÄD an den Gesundheits- ämtern auf Basis der Gesundheitsdienstgesetze der Länder und der Regelungen des JurParagraph 21 Sozialgesetzbuch V betraut sind, ist die zahnmedizinische Gruppenprophylaxe, die als Gemeinschaftsaufgabe von ÖGD und Krankenkassen vorgesehen ist. Hierzu werden auf Landes- und kommunaler Ebene entsprechende Rahmenvereinbarungen geschlossen. Die Gesundheitsämter stützen sich dabei sowohl auf angestellte und verbeamtete Zahnärztinnen und Zahnärzte sowie geschultes Prophylaxepersonal, zum Teil binden sie auch örtlich tätige Zahnarztpraxen mit ein.
 
 Die Maßnahmen sollen vorrangig in Gruppen, insbesondere in Kindergärten und Schulen, durchgeführt werden; sie sollen sich auf die Untersuchung der[ Mundhöhle](https://de.wikipedia.org/wiki/Mundh%C3%B6hle), Erhebung des[ Zahnstatus](https://de.wikipedia.org/wiki/Zahnstatus),[ Zahnschmelzhärtung](https://de.wikipedia.org/wiki/Zahnschmelz),[ Ernährungsberatung](https://de.wikipedia.org/wiki/Ern%C3%A4hrungsberatung) und[ Mundhygiene](https://de.wikipedia.org/wiki/Prophylaxe_(Zahnmedizin)) erstrecken. Für Kinder mit besonders hohem Kariesrisiko sind spezifische Programme zu entwickeln.
 
@@ -1227,11 +1179,7 @@ Von der Amtsleitung ausgehend erfolgt die Aufgabenwahrnehmung über die Funktion
 Beispiel für ein Organigramm des Gesundheitsamt Frankfurt am Main (Stand Juli 2019).
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD3.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image3.png "image_tooltip")
 
 
 Abbildung XX: Organigramm des Gesundheitsamtes Frankfurt. (REF: Quelle: [https://www.frankfurt.de/sixcms/media.php/738/Organigramm%20des%20Gesundheitsamtes%20Frankfurt%20am%20Main-web.pdf](https://www.frankfurt.de/sixcms/media.php/738/Organigramm%20des%20Gesundheitsamtes%20Frankfurt%20am%20Main-web.pdf)  Abgerufen am 23.05.201
@@ -1352,11 +1300,7 @@ Auch wird die Funktion der Aus-, Weiter- und Fortbildung der Mitarbeiter/innen i
 
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD4.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image4.png "image_tooltip")
 
 
 
@@ -1573,11 +1517,7 @@ Die Gesundheitsministerkonferenz wird vorbereitet durch die Amtschefkonferenz de
 ### Die Ebene des Bundes
 
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD5.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image5.png "image_tooltip")
 
 
 
@@ -1637,7 +1577,7 @@ Das [Paul-Ehrlich-Institut](https://www.pei.de/DE/institut/institut-node.html) (
 
 Es ist eine[ Bundesoberbehörde](https://de.wikipedia.org/wiki/Bundesoberbeh%C3%B6rde) im Geschäftsbereich des[ Bundesministeriums für Gesundheit](https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Gesundheit_(Deutschland)) mit Sitz in Langen.
 
-Das PEI prüft und bewertet Impfstoffe und biomedizinische Arzneimittel und ihren Nutzen. Es sammelt und bewertet anderem Meldungen von unerwünschten Arzneimittelwirkungen von Impfstoffen. Dies betrifft die Meldungen der Gesundheitsämter nach § 6 Infektionsschutzgesetzes, freiwillige Meldungen von Ärzten/innen und Meldungen aus der Bevölkerung.
+Das PEI prüft und bewertet Impfstoffe und biomedizinische Arzneimittel und ihren Nutzen. Es sammelt und bewertet anderem Meldungen von unerwünschten Arzneimittelwirkungen von Impfstoffen. Dies betrifft die Meldungen der Gesundheitsämter nach JurParagraph 6 Infektionsschutzgesetzes, freiwillige Meldungen von Ärzten/innen und Meldungen aus der Bevölkerung.
 
 
 #### Robert Koch-Institut
@@ -1959,7 +1899,7 @@ Die Grundgesetz Artikel  1- 19 sind die sogenannten Grundrechte. Darüber hinaus
 
 und Artikel 20 stehen unter dem Schutz der sogenannten Ewigkeitsklausel (Art 79 Absatz 3, GG) und dürfen niemals geändert werden. 
 
-Aber es gibt Situationen, in denen die Einschränkung der Grundrechte des Einzelnen zum Schutz der Bevölkerung notwendig ist (vergleiche § 16 IFSG). Hierbei muss der Grundsatz der Verhältnismäßigkeit angewendet werden. Das bedeutet, dass eine sorgfältige Überprüfung zwingend zu erfolgen hat, ob eine andere mildere Maßnahme genauso wirksam ist.
+Aber es gibt Situationen, in denen die Einschränkung der Grundrechte des Einzelnen zum Schutz der Bevölkerung notwendig ist (vergleiche JurParagraph 16 IFSG). Hierbei muss der Grundsatz der Verhältnismäßigkeit angewendet werden. Das bedeutet, dass eine sorgfältige Überprüfung zwingend zu erfolgen hat, ob eine andere mildere Maßnahme genauso wirksam ist.
 
 Dies kann insbesondere folgende Grundrechte betreffen:  
 
@@ -1977,7 +1917,7 @@ KASTEN Beispiel: Die stationäre Unterbringung eines nicht einsichtsfähigen ode
 
 #### Sozialgesetzbuch (SGB)
 
-Im Sozialgesetzbuch (SGB I, §1(1)) ist das Recht zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit auf Sozialleistungen, einschließlich sozialer und erzieherischer Hilfen, gestalten. Es soll dazu beitragen, ein menschenwürdiges Dasein zu sichern mit gleiche Voraussetzungen für die freie Entfaltung der Persönlichkeit, insbesondere auch für junge Menschen. Es soll die Familie schützen und fördern, es ermöglicht den Erwerb des Lebensunterhalts durch eine frei gewählte Tätigkeit und regelt das besondere Belastungen des Lebens, durch Hilfe zur Selbsthilfe, abgewendet oder ausgeglichen werden.
+Im Sozialgesetzbuch (SGB I, JurParagraph1(1)) ist das Recht zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit auf Sozialleistungen, einschließlich sozialer und erzieherischer Hilfen, gestalten. Es soll dazu beitragen, ein menschenwürdiges Dasein zu sichern mit gleiche Voraussetzungen für die freie Entfaltung der Persönlichkeit, insbesondere auch für junge Menschen. Es soll die Familie schützen und fördern, es ermöglicht den Erwerb des Lebensunterhalts durch eine frei gewählte Tätigkeit und regelt das besondere Belastungen des Lebens, durch Hilfe zur Selbsthilfe, abgewendet oder ausgeglichen werden.
 
 Die Zuständigkeiten des ÖGD liegen hier überwiegend bei den einzelnen Bundesländern, die die jeweiligen Rahmenbedingungen setzen. Die rechtlichen Grundlagen werden in Bundes- und wesentlich in Landesgesetzen geregelt.
 
@@ -1995,7 +1935,7 @@ Ausschließliche Gesetzgebungskompetenz heißt, dass nur der Bund zuständig ist
 
 Konkurrierende Gesetzgebung heißt, dass die Länder Festlegungen nur dann treffen dürfen, wenn der Bund dies nicht gemacht hat.  
 
-KASTEN Beispiel: Konkurrierende Gesetzgebung trifft auf den Bereich des Infektionsschutzgesetzes zu. Hierzu heißt es in Artikel 74 Punkt 19: “_Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei Menschen und Tieren”. _Der Bund hat durch das Infektionsschutzgesetz Festlegungen zu diesem Punkt getroffen. 
+KASTEN Beispiel: Konkurrierende Gesetzgebung trifft auf den Bereich des Infektionsschutzgesetzes zu. Hierzu heißt es in Artikel 74 Punkt 19: _Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei Menschen und Tieren._ Der Bund hat durch das Infektionsschutzgesetz Festlegungen zu diesem Punkt getroffen. 
 
 Alle Ausnahmen der Länderkompetenz sind in Artikel 74 aufgeführt., Für den ÖGD ist insbesondere Artikel 74  Nr 19 GG relevant.
 
@@ -2008,20 +1948,18 @@ Alle Ausnahmen der Länderkompetenz sind in Artikel 74 aufgeführt., Für den Ö
 
 Für den ÖGD ist eine Vielzahl von Ländergesetzen relevant. An erster Stelle stehen hier die Gesundheitsdienstgesetze (GDG) für den ÖGD.
 
-In den GDG werden die Aufgaben der unteren Gesundheitsbehörden festgelegt, sofern diese nicht durch Bundesgesetze geregelt sind. Beispielsweise ist in §10 des (Bundes-)Gesetz zum Schutz von in der Prostitution tätigen Personen (Prostituiertenschutzgesetz - ProstSchG) festgelegt, dass die gesundheitliche Beratung durch Gesundheitsämter erfolgt. 
+In den GDG werden die Aufgaben der unteren Gesundheitsbehörden festgelegt, sofern diese nicht durch Bundesgesetze geregelt sind. Beispielsweise ist in JurParagraph10 des (Bundes-)Gesetz zum Schutz von in der Prostitution tätigen Personen (Prostituiertenschutzgesetz - ProstSchG) festgelegt, dass die gesundheitliche Beratung durch Gesundheitsämter erfolgt. 
 
 Die Aufgaben die sich aus dem Infektionsschutzgesetz ergeben, müssen jedoch durch die Dienstgesetze der Länder den Gesundheitsämtern erst zugeordnet werden.
 
 Beispiele für Ländergesetze und Verordnungen mit besonderer Bedeutung für den ÖGD sind:
 
-
-
 *   (Gesundheits-) Dienstgesetze (oft bezeichnet als GDG)
 *   Psychischkranken(hilfe) Gesetze (oft bezeichnet als PsychKG)
 *   Bestattungsgesetze
 *   Schulgesetze
-*   Hygieneverordnungen (nach § 23 IFSG)
-*   Infektionshygieneverordnungen ( nach § 36 IFSG)
+*   Hygieneverordnungen (nach JurParagraph 23 IFSG)
+*   Infektionshygieneverordnungen ( nach JurParagraph 36 IFSG)
 
 
 #### Relevante Gesetze: Bundesebene
@@ -2031,7 +1969,7 @@ Beispiele für Bundesgesetze  mit  besonderer Bedeutung  für den ÖGD:
 
 
 *   Infektionsschutzgesetz (IfSG) 
-*   Sozialgesetzbücher (insbesondere § 20 und 21§ SGB V) 
+*   Sozialgesetzbücher (insbesondere JurParagraph 20 und 21JurParagraph SGB V) 
 *   Präventionsgesetz
 *   Prostituiertenschutzgesetz
 
@@ -2039,15 +1977,15 @@ Beispiel eine Bundesverordnung mit besonderer Bedeutung für den ÖGD
 
 
 
-*   Trinkwasserverordnung (nach § 37 IFSG)
+*   Trinkwasserverordnung (nach JurParagraph 37 IFSG)
 
 KASTEN: Anmerkung zum Infektionsschutzgesetz (IfSG)
 
-Im 5. Abschnitt des Infektionsschutzgesetzes „Bekämpfung übertragbarer Krankheiten” ist im § 30 die „Quarantäne“ von Patienten geregelt, die an für die Allgemeinheit möglicherweise schwerwiegenden Infektionserkrankungen leiden (im früheren Bundes-Seuchengesetz die sogenannten „gemeingefährliche Erkrankungen“; im angelsächsischen Sprachgebrauch hat sich „High Consequence Infectious Diseases (HCID)“ durchgesetzt, beide Begriffe drücken die Gefährlichkeit dieser Infektionserkrankungen für die Allgemeinheit aus). 
+Im 5. Abschnitt des Infektionsschutzgesetzes „Bekämpfung übertragbarer Krankheiten” ist im JurParagraph 30 die „Quarantäne“ von Patienten geregelt, die an für die Allgemeinheit möglicherweise schwerwiegenden Infektionserkrankungen leiden (im früheren Bundes-Seuchengesetz die sogenannten „gemeingefährliche Erkrankungen“; im angelsächsischen Sprachgebrauch hat sich „High Consequence Infectious Diseases (HCID)“ durchgesetzt, beide Begriffe drücken die Gefährlichkeit dieser Infektionserkrankungen für die Allgemeinheit aus). 
 
-Im Gesetzestext unter §30 “Quarantäne” wird die medizinische Fachterminologie nicht richtig verwendet da in den Paragraphen etwas anderes beschrieben als die Überschrift “Quarantäne” vermittelt. 
+Im Gesetzestext unter JurParagraph30 “Quarantäne” wird die medizinische Fachterminologie nicht richtig verwendet da in den Paragraphen etwas anderes beschrieben als die Überschrift “Quarantäne” vermittelt. 
 
-Unter „Quarantäne“ wird die Absonderung von gesunden (!) Personen verstanden wird, die sich z.B. an einem kranken Patienten angesteckt haben könnten. Isolierung beschreibt die Absonderung von kranken (!) Personen, die entweder Symptome aufweisen, die zu der betreffenden schwerwiegenden Infektionskrankheit passen könnten oder bei denen die Infektionskrankheit nachgewiesen wurde. Gemeint ist im Text des §30 also ist die „Absonderung“ oder „Isolierung“ von Krankheitsverdächtigen oder Erkrankten (der Begriff“Absonderung“ wird im folgenden Gesetzestext auch verwendet). 
+Unter „Quarantäne“ wird die Absonderung von gesunden (!) Personen verstanden wird, die sich z.B. an einem kranken Patienten angesteckt haben könnten. Isolierung beschreibt die Absonderung von kranken (!) Personen, die entweder Symptome aufweisen, die zu der betreffenden schwerwiegenden Infektionskrankheit passen könnten oder bei denen die Infektionskrankheit nachgewiesen wurde. Gemeint ist im Text des JurParagraph30 also ist die „Absonderung“ oder „Isolierung“ von Krankheitsverdächtigen oder Erkrankten (der Begriff“Absonderung“ wird im folgenden Gesetzestext auch verwendet). 
 
 Der fachtechnische Terminus „Absonderung“ ist der Oberbegriff für jedwede vom Amtsarzt angeordnete Maßnahme, die es Erkrankten verbietet, gemachte Vorgaben zu missachten, z.B den Raum, der in der Absonderung angeordnet wurden zu verlassen (s.a. Artikel 2, Abs. 2, Satz 2, GG, „Verwaltungsakt“) 
 
@@ -2101,12 +2039,7 @@ Die Ergebnisreports der JEE sind auf der Homepage der WHO öffentlich einsehbar:
 
 Die sogenannten Grundlegende Maßnahmen der Öffentlichen Gesundheit (Essential Public Health Operations, EPHO)” wurden vom Regionalkomitee der Weltgesundheitsorganisation für Europa (WHO Europe) formuliert, um die zentralen Aufgaben im Bereich der öffentlichen Gesundheit sowie übergeordnete Themen, die die Erbringung dieser Aufgaben ermöglichen, abzubilden. Die EPHO sind Teil des Europäischen Aktionsplans zur Stärkung der Kapazitäten und Angebote im Bereich der öffentlichen Gesundheit.
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD6.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image6.png "image_tooltip")
 
 
 (Quelle: http://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations)
@@ -2163,15 +2096,15 @@ Der Begriff des Verwaltungsaktes ist gesetzlich geregelt im Verwaltungsverfahren
 
 “Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung durch die Allgemeinheit betrifft.”
 
-(§ 35 VwVfG)
+(JurParagraph 35 VwVfG)
 
 Die unterschiedlichen Maßnahmen einer Behörde die durch einen Verwaltungsakt geregelt werden, können unterschieden werden in:
 
 
 
-*   **Verbot **eines Verhaltens ,wie z.B. Anordnung der Schließung der ambulanten Operationsräume einer  Arztpraxis wegen gravierender Hygienemängel (§ 16 I IfSG) oder die Anordnung der Unterbrechung der betr. Wasserversorgung (§ 9 III TrinkwV).
-*   **Gebot **eines Verhaltens, wie z.B. Anordnung von Schutzmaßnahmen (Anordnung der Beobachtung §§ 28, 29 IfSG), Anordnung der Quarantäne (§ 30 I  IfSG) oder Anordnung der Untersuchung von Legionellen (§§ 20 I, 14 III TrinkwV)
-*   **Rechtsgewährung**, wie z.B. Erteilung der Fahrerlaubnis, Erteilung der Approbation (§ 3 BÄO, § 4 BApO), Erlaubnis zum Arbeiten mit Krankheitserregern (§44 I  IfSG) oder die Herstellungserlaubnis (§ 13 AMG, Zulassung)
+*   **Verbot **eines Verhaltens ,wie z.B. Anordnung der Schließung der ambulanten Operationsräume einer  Arztpraxis wegen gravierender Hygienemängel (JurParagraph 16 I IfSG) oder die Anordnung der Unterbrechung der betr. Wasserversorgung (JurParagraph 9 III TrinkwV).
+*   **Gebot **eines Verhaltens, wie z.B. Anordnung von Schutzmaßnahmen (Anordnung der Beobachtung JurParagraphJurParagraph 28, 29 IfSG), Anordnung der Quarantäne (JurParagraph 30 I  IfSG) oder Anordnung der Untersuchung von Legionellen (JurParagraphJurParagraph 20 I, 14 III TrinkwV)
+*   **Rechtsgewährung**, wie z.B. Erteilung der Fahrerlaubnis, Erteilung der Approbation (JurParagraph 3 BÄO, JurParagraph 4 BApO), Erlaubnis zum Arbeiten mit Krankheitserregern (JurParagraph44 I  IfSG) oder die Herstellungserlaubnis (JurParagraph 13 AMG, Zulassung)
 
 
 ### Erlass
@@ -2243,7 +2176,7 @@ Nach dem Grundgesetz leisten sich alle Behörden des Bundes und der Länder gege
 
 “Alle Behörden des Bundes und der Länder leisten sich gegenseitig Rechts- und Amtshilfe.” (Art. 35 Abs. 1 GG). 
 
-Das VwVfG regelt in § 5 die  Voraussetzungen und Grenzen der Amtshilfe. Ein triftiger Grund die Amtshilfe zu verweigern könnte Vorliegen von Unverhältnismäßigkeit sein.
+Das VwVfG regelt in JurParagraph 5 die  Voraussetzungen und Grenzen der Amtshilfe. Ein triftiger Grund die Amtshilfe zu verweigern könnte Vorliegen von Unverhältnismäßigkeit sein.
 
 
 #### Vollzugshilfe
@@ -2305,7 +2238,7 @@ Hierzu gehört insbesondere auch ein Verständnis für die Bedeutung multi- und 
 
 Die gesetzlichen Vorgaben der ÄAppO besagen u.a.: 
 
-“Die Ausbildung soll grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in allen Fächern vermitteln, die für eine umfassende Gesundheitsversorgung der Bevölkerung erforderlich sind.” [§ 1 Abs. 1].
+“Die Ausbildung soll grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in allen Fächern vermitteln, die für eine umfassende Gesundheitsversorgung der Bevölkerung erforderlich sind.” [JurParagraph 1 Abs. 1].
 
 Obwohl die Gesundheitsversorgung der Bevölkerung in der ÄAppO explizit benannt ist, ist derzeit das Medizinstudium in Deutschland derzeit vorwiegend individualmedizinisch ausgerichtet und Bevölkerungsmedizinische Lehre fehlt vielfacht. Der größte Teil der medizinischen Ausbildung fokussiert sich auf die Pathogenese, die Diagnostik, Therapie und ggf. Rehabilitation von Pathologien. Bereits die Lancet Comission on medical education for the 21st century kritisiert eine solche Art der Ausbildung: “fragmented, outdated, and static curricula are producing ill-equipped graduates.” (Frenk et al, 2010),  weil - gerade im stationären Bereich - oft die Akutversorgung im Vordergrund steht. Nicht zuletzt aber auch, weil ärztliches Personal für eine Beachtung und Beantwortung Bevölkerungsmedizinischer Fragen kaum sensibilisiert und geschult ist und viele der Aspekte über ihren Kernkompetenz- und Verantwortungsbereich hinausgehen. 
 
@@ -2559,12 +2492,7 @@ Public Health Studierende werden für Aufgaben in der Forschung und im Planungs-
 
  Die Absolventen kennen die Entscheidungsstrukturen im Gesundheitswesen, wissen über das System, seine Akteure und deren unterschiedliche Interessen ebenso Bescheid wie über Steuerungsmodelle und die Finanzierung. Sie sind über das Management einzelner Bereiche (z. B. stationäre Einrichtungen) informiert, kennen Konzepte des Qualitätsmanagements und können Kostenfragen in den Blick nehmen. Sie sind in der Lage, Aussagen über vermeidbare und nicht vermeidbare Morbidität und Mortalität der Bevölkerung zu analysieren, entsprechende wissenschaftliche Untersuchungen vorzunehmen und auszuwerten. Sie haben Kenntnisse über den Stellenwert von Gesundheitsförderung, Prävention, Kuration und Rehabilitation, verfügen über Strategien gesundheitlicher Aufklärung.
 
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lehrbuch-GD7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lehrbuch-GD7.png "image_tooltip")
+![alt_text]({{ site.url }}/assets/img/image7.png "image_tooltip")
  
 
  
@@ -2627,7 +2555,7 @@ Anhang:
 
  
 
-Tenor (§37 Abs. 1 BVwVfG)
+Tenor (JurParagraph37 Abs. 1 BVwVfG)
 
 •Es muss eine hinreichend bestimmte Maßnahme, die an eine bestimmte Person bzw. an einen bestimmten Personenkreis (im Falle einer Allgemeinverfügung) gerichtet ist, angeordnet werden.
 
@@ -2641,13 +2569,13 @@ Tenor (§37 Abs. 1 BVwVfG)
 
  
 
-•Nebenbestimmung (§36 BVwVfG)
+•Nebenbestimmung (JurParagraph36 BVwVfG)
 
 •i.d.R. Frist, also ab und/oder bis wann die Maßnahme gilt
 
  
 
-•Begründung (§39 BVwVfG)
+•Begründung (JurParagraph39 BVwVfG)
 
 •Ausführung des festgestellten Sachverhalts, soweit für die rechtliche Bewertung wichtig oder zwischen den Beteiligten u. U. auch strittig und die angewendeten Rechtsvorschriften ausgeführt sind.
 
