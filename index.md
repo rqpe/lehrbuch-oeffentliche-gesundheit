@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: home
+author_profile: false
+toc: true
+toc_sticky: true
 ---
+
+## Lehrbuch: Der Öffentliche Gesundheitsdienst 
+
  
 
-**Gesundheit ist nicht alles, aber ohne Gesundheit ist alles nichts.**
+_Gesundheit ist nicht alles, aber ohne Gesundheit ist alles nichts._
 
 (Arthur Schopenhauer)
 
@@ -469,7 +475,9 @@ In der ehemaligen Deutschen Demokratischen Republik wurde Sozialhygiene als übe
 
 ### Gesundheitswissenschaften
 
-Als Gesundheitswissenschaften wird u.a. verstanden das “_Ensemble von wissenschaftlichen Einzeldisziplinen, die auf einen gemeinsamen Gegenstandsbereich gerichtet sind, nämlich die Analyse von Determinanten und Verläufen von Gesundheits- und Krankheitsprozessen und die Ableitung von bedarfsgerechten Versorgungsstrukturen und deren systematische Evaluation unter Effizienzgesichtspunkten”_ bezeichnet. Danach liegt im Zentrum des Erkenntnisinteresses der Gesundheitswissenschaften die Verbesserung der Gesundheit der Bevölkerung durch Krankheitsverhütung und Gesundheitsförderung. [REF. Hurrelmann, Razum, Handbuch Gesundheitswissenschaften, ISBN 978-3-7799-0797-8 2012 Beltz Juventa Verlag, Weinheim Basel]”. 
+Als Gesundheitswissenschaften wird u.a. verstanden das “_Ensemble von wissenschaftlichen_
+
+_Einzeldisziplinen, die auf einen gemeinsamen Gegenstandsbereich gerichtet sind, nämlich die Analyse von Determinanten und Verläufen von Gesundheits- und Krankheitsprozessen und die Ableitung von bedarfsgerechten Versorgungsstrukturen und deren systematische Evaluation unter Effizienzgesichtspunkten” _bezeichnet. Danach liegt im Zentrum des Erkenntnisinteresses der Gesundheitswissenschaften die Verbesserung der Gesundheit der Bevölkerung durch Krankheitsverhütung und Gesundheitsförderung. [REF. Hurrelmann, Razum, Handbuch Gesundheitswissenschaften, ISBN 978-3-7799-0797-8 2012 Beltz Juventa Verlag, Weinheim Basel]”. 
 
 Zu den wissenschaftlichen Fachdisziplinen, die sich mit natur- und/oder gesellschaftswissenschaftlichen Methoden mit der Beschreibung, Analyse und Verbesserung der öffentlicher Gesundheit im Sinne der Gesundheitswissenschaften auseinandersetzen, werden unter anderem die Gesundheitsökonomie, die Epidemiologie und die Versorgungsforschung gezählt.
 
@@ -551,7 +559,7 @@ _6 Und wenn er ihn erneut nach sieben Tagen besieht und findet, dass die Stelle 
 
  
 
-Epidemien und auch Pandemien bilden ein klassisches Thema der Medizingeschichte mit zahlreichen Anknüpfungspunkten zur Sozial-, Wirtschafts- und Kulturgeschichte. (REF: Jörg Vögele, Ulrich Koppitz, Hideharu Umehara. Epidemien und Pandemien in historischer Perspektive. https://link.springer.com/chapter/10.1007/978-3-658-13875-2_1, First Online: 08 July 2016.) Auch die Sorge für psychisch Kranke und Behinderte, für arme Kranke ohne Obdach und weitere notleidende Bevölkerungsgruppen ist über lange Zeit dokumentiert. Dabei ging die Zuständigkeit allmählich von den Familien und den Religionsgemeinschaften auf die staatliche Ebene über.
+Epidemien und auch Pandemien bilden ein klassisches Thema der Medizingeschichte mit zahlreichen Anknüpfungspunkten zur Sozial-, Wirtschafts- und Kulturgeschichte. (_REF: Jörg Vögele, Ulrich Koppitz, Hideharu Umehara. Epidemien und Pandemien in historischer Perspektive. https://link.springer.com/chapter/10.1007/978-3-658-13875-2_1, First Online: 08 July 2016.) _Auch die Sorge für psychisch Kranke und Behinderte, für arme Kranke ohne Obdach und weitere notleidende Bevölkerungsgruppen ist über lange Zeit dokumentiert. Dabei ging die Zuständigkeit allmählich von den Familien und den Religionsgemeinschaften auf die staatliche Ebene über.
 
  
 
@@ -597,9 +605,11 @@ In Deutschland entstand auf der Reichsebene die Einsicht, den Menschen in ihrer 
 
 _[ . . . ]_
 
-_Schon im Februar dieses Jahres haben Wir Unsere Überzeugung aussprechen lassen, daß die Heilung der sozialen Schäden nicht ausschließlich im Wege der Repression sozialdemokratischer Ausschreitungen, sondern gleichmäßig auf dem der positiven Förderung des Wohles der Arbeiter zu suchen sein werde. Wir halten es für Unsere Kaiserliche Pflicht, dem Reichstage diese Aufgabe von neuem ans Herz zu legen, und würden Wir mit um so größerer Befriedigung auf alle Erfolge, mit denen Gott Unsere Regierung sichtlich gesegnet hat, zurückblicken, wenn es Uns gelänge, dereinst das Bewußtsein mitzunehmen, dem Vaterlande neue und dauernde Bürgschaften seines inneren Friedens und den Hilfsbedürftigen größere Sicherheit und Ergiebigkeit des Beistandes, auf den sie Anspruch haben, zu hinterlassen. In Unseren darauf gerichteten Bestrebungen sind Wir der Zustimmung aller verbündeten Regierungen gewiß und vertrauen auf die Unterstützung des Reichstags ohne Unterschied der Parteistellungen.“_
+_Schon im Februar dieses Jahres haben Wir Unsere Überzeugung aussprechen lassen, daß die Heilung der sozialen Schäden nicht ausschließlich im Wege der Repression sozialdemokratischer Ausschreitungen, sondern gleichmäßig auf dem der positiven Förderung des Wohles der Arbeiter zu suchen sein werde. Wir halten es für Unsere Kaiserliche Pflicht, dem Reichstage diese Aufgabe von neuem ans Herz zu legen, und würden Wir mit um so größerer Befriedigung auf alle Erfolge, mit denen Gott Unsere Regierung sichtlich gesegnet hat, zurückblicken, wenn es Uns gelänge, dereinst das Bewußtsein mitzunehmen, dem Vaterlande neue und dauernde Bürgschaften seines inneren Friedens und den Hilfsbedürftigen größere Sicherheit und Ergiebigkeit des Beistandes, auf den sie Anspruch haben, zu hinterlassen. In Unseren darauf gerichteten Bestrebungen sind Wir der Zustimmung aller verbündeten Regierungen gewiß und vertrauen auf die Unterstützung des Reichstags ohne Unterschied der Parteistellungen.“ _
 
 (REF: http://ghdi.ghi-dc.org/sub_document.cfm?document_id=1808&language=german Download 25.5.2019).
+
+ 
 
 Mitte des 19. Jahrhunderts wurde Forderung nach einem zentralen wissenschaftlichen Institut für die Bevölkerungsgesundheit erhoben. In der zweiten Hälfte des 19. Jahrhunderts entwickelten sich die Aufgaben des öffentlichen Gesundheitsdienstes aus den wissenschaftlichen Arbeiten von Robert Koch zu Tuberkulose und zur Infektiologie. 
 
@@ -1126,8 +1136,11 @@ Eine besondere Herausforderung liegt in der Entwicklung von Kennzahlen und Indik
 
 Weitere Aufgaben des ÖGD sind die Medizinalaufsicht über Heilberufe, das heißt die Beaufsichtigung und Überwachung der im Gesundheitswesen tätigen Personen und Einrichtungen, die Apothekenaufsicht und fachliche Mitwirkung bei Bauplanungen sowie das Mitwirken beim Katastrophenschutz.
 
-## Aufbau des Öffentlichen Gesundheitsdienstes
 
+## 
+
+
+## Aufbau des Öffentlichen Gesundheitsdienstes
 
 Der Öffentliche Gesundheitsdienst hat einen vielschichtigen Aufbau. Globale, europäische, nationale, föderale, regionale und kommunale Institutionen, Gremien und Netzwerke beeinflussen dabei die Struktur. 
 
@@ -1170,6 +1183,7 @@ Abbildung XX: Organigramm des Gesundheitsamtes Frankfurt. (REF: Quelle: [https:/
 
 Im Gesundheitsamt arbeiten verschiedene Berufsgruppen multidisziplinär zusammen. Die Leitung des Gesundheitsamtes obliegt in der Regel einer Ärztin oder einem Arzt mit der Anerkennung als  Facharzt für Öffentliches Gesundheitswesen. 
 
+
 <table>
   <tr>
    <td><strong>Berufsgruppe</strong>
@@ -1179,21 +1193,29 @@ Im Gesundheitsamt arbeiten verschiedene Berufsgruppen multidisziplinär zusammen
   </tr>
   <tr>
    <td>(Fach-) Ärztinnen und Ärzte
-      <ul>
-      <li>für Öffentliches Gesundheitswesen
-      <li>für Hygiene und Umweltmedizin
-      <li>für Psychiatrie und Psychotherapie
-      <li>für Kinder- und Jugendheilkunde
-      <li>für Kinder- und Jugendpsychiatrie
-      <li>für Gynäkologie
-      </li>
-      </ul>
+<ul>
+
+<li>für Öffentliches Gesundheitswesen
+
+<li>für Hygiene und Umweltmedizin
+
+<li>für Psychiatrie und Psychotherapie
+
+<li>für Kinder- und Jugendheilkunde
+
+<li>für Kinder- und Jugendpsychiatrie
+
+<li>für Gynäkologie
+</li>
+</ul>
    </td>
    <td>Sechsjähriges universitäres Studium und in der Regel 60-monatige Facharztweiterbildung
    </td>
   </tr>
   <tr>
-   <td>Zahnärztinnen und Zahnärzte. Fachzahnärztinnen und Fachzahnärzte für das Öffentliche Gesundheitswesen
+   <td>Zahnärztinnen und Zahnärzte
+<p>
+Fachzahnärztinnen und Fachzahnärzte für das Öffentliche Gesundheitswesen
    </td>
    <td>Sechsjähriges universitäres Studium und in der Regel vierjährige Weiterbildung
    </td>
@@ -1469,6 +1491,7 @@ Auch wird die Funktion der Aus-, Weiter- und Fortbildung der Mitarbeiter/innen i
    </td>
   </tr>
 </table>
+
 
 
 #### Landesbehörden
@@ -2244,7 +2267,7 @@ Um Aspekte der öffentlichen Gesundheit stärker in der medizinischen Ausbildung
      
 
 
-##### Best-practice:_ _„Wir brauchen mehr Leuchttürme“_
+##### Best-practice:_ _„Wir brauchen mehr Leuchttürme“
 
 Es sollte flächendeckend die Möglichkeit existieren Famulaturen und PJ-Tertiale in Gesundheitsamt und anderen Einrichtungen des ÖGW zu absolvieren, um dort praktische Einblicke und Erfahrungen zu bekommen und diesen Bereichen neben Famulatur und PJ im ambulanten und stationären Bereich als “geregelten” 3. Bereich zu würden. Bislang erkennen die Landesprüfungsämter entsprechende praktische Erfahrungen jedoch nur in einigen
 
@@ -2500,7 +2523,7 @@ Neue Erkenntnisse und Forschungsergebnisse aus dem fragmentieren Public Health-F
 
 Dabei sollten akademische Public Health Einrichtungen nicht nur grundlegend zur Aus-, Fort- und Weiterbildung der Mitarbeiter im ÖGD beitragen sondern gleichzeitig empirische Forschung des ÖGD durchführen, um die Grundlagen für evidenz-basierte Entscheidungen zu etablieren und sicher zu stellen.
 
-Dennoch gibt es viele Beispiele, in denen eine praxisrelevante, wissenschaftlich hochwertige Forschung, auch über Ländergrenzen hinweg, durch den ÖGD initiiert werden kann. Zu erwähnen sind hier EU-Forschungsprojekte unter der Teilnahme Deutscher Einrichtungen des Öffentlichen Gesundheitswesens, das Projekt „BEPE“ (ein Projekt, das vom BMBF mit 1,2 Mio € zusammen mit Israelischen Stellen gefördert wurde [Projekt BEPE](https://www.frankfurt.de/sixcms/detail.php?id=2996&_ffmpar[_id_inhalt]=7457175), „Ivena“ und aktuell ESEG (ein Projekt, dass mit 4,2 Mio € durch den Gemeinsamen Bundesausschuss GBA gefördert wird [https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/eseg-erkennung-und-steuerung-epidemiologischer-gefahrenlagen.151](https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/eseg-erkennung-und-steuerung-epidemiologischer-gefahrenlagen.151)
+Dennoch gibt es viele Beispiele, in denen eine praxisrelevante, wissenschaftlich hochwertige Forschung, auch über Ländergrenzen hinweg, durch den ÖGD initiiert werden kann. Zu erwähnen sind hier EU-Forschungsprojekte unter der Teilnahme Deutscher Einrichtungen des Öffentlichen Gesundheitswesens, das Projekt „BEPE“ (ein Projekt, das vom BMBF mit 1,2 Mio € zusammen mit Israelischen Stellen gefördert wurde {[https://www.frankfurt.de/sixcms/detail.php?id=2996&_ffmpar[_id_inhalt]=7457175](https://www.frankfurt.de/sixcms/detail.php?id=2996&_ffmpar[_id_inhalt]=7457175)}), „Ivena“ und aktuell ESEG (ein Projekt, dass mit 4,2 Mio € durch den Gemeinsamen Bundesausschuss GBA gefördert wird {[https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/eseg-erkennung-und-steuerung-epidemiologischer-gefahrenlagen.151](https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/eseg-erkennung-und-steuerung-epidemiologischer-gefahrenlagen.151)}.
 
 
 ### Erkenntnistransfer
