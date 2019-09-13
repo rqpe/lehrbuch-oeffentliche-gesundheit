@@ -4,19 +4,18 @@ layout: page
 heading_anchors: true
 nav_order: 3
 ---
-
-
 # Begriffsbestimmungen
 
 <details markdown="block">
   <summary>
-    CONTENTS
+    Inhaltsverzeichnis dieses Kapitels
   </summary>
-____
+
 - TOC
 {:toc}
-____
+<br><br>
 </details>
+
 
 In Deutschland werden die Begriffe Öffentliche Gesundheit (engl. Public Health), Bevölkerungsgesundheit, Bevölkerungsmedizin oder Sozialmedizin oft synonym verwendet. Allerdings beinhalten diese zum Teil inhaltliche Differenzierungen und werden unterschiedlich interpretiert. Dies ist einerseits durch die besondere Geschichte Deutschlands, andererseits durch die Verwendung, Bedeutung oder Übersetzung der Begriffe in die deutsche Sprache bedingt.
 
