@@ -7,17 +7,26 @@ nav_order: 3
 
 
 # Begriffsbestimmungen
-1. TOC
-{:toc}
 
-Begriffsbestimmungen 
+<details markdown="block">
+  <summary>
+    CONTENTS
+  </summary>
+____
+- TOC
+{:toc}
+____
+</details>
+
 In Deutschland werden die Begriffe Öffentliche Gesundheit (engl. Public Health), Bevölkerungsgesundheit, Bevölkerungsmedizin oder Sozialmedizin oft synonym verwendet. Allerdings beinhalten diese zum Teil inhaltliche Differenzierungen und werden unterschiedlich interpretiert. Dies ist einerseits durch die besondere Geschichte Deutschlands, andererseits durch die Verwendung, Bedeutung oder Übersetzung der Begriffe in die deutsche Sprache bedingt.
 
 Um die mit verschiedenen Bedeutungen verbundene Begriffe für die praktische alltägliche Arbeit im ÖGD verständlich zu machen, werden diese im Folgenden beschrieben und interpretiert.
-Gesundheit
+
+# Gesundheit
 Die  Weltgesundheitsorganisation (WHO) definiert Gesundheit in ihrer Verfassung von 1946 als “ein Zustand des vollkommenen körperlichen, geistigen und sozialen Wohlbefindens und nicht allein das Fehlen von Krankheit oder Gebrechen." (Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity). (REF: WHO (1946): Constitution of the World Health Organization, Abs 2. Definition der WHO (World Health Organisation) von 1946). Oft wird die hier beschriebene Gesundheit mit Wohlbefinden (engl. well-being) gleichgesetzt. 
 Bevor sich diese Definition durchsetzte war ein Mensch im Allgemeinen als gesund erachtet worden, wenn diesem äußerlich nichts fehlte. 
-Öffentliche Gesundheit 
+
+# Öffentliche Gesundheit 
 Unter öffentlicher Gesundheit wird die Gesundheit aller Menschen in einem Zeitraum in einem festgelegten geographischen Raum, unabhängig von Faktoren wie Staatsbürgerschaft oder Nationalität verstanden. Dabei handelt es sich um die Bestandsaufnahme eines Zustands und weder um eine wissenschaftliche Theorie, noch um gesundheitspolitische Maßnahmen.
 Gesundheitswesen (synonym: Gesundheitssystem)
 Hierbei handelt es sich um einen übergeordneten Begriff für alle staatlichen, kommunalen und privaten Einrichtungen, Organisationen oder natürlichen Personen, die im Sinne der Gesundheit der Menschen tätig sind und sich mit der Aufrechterhaltung der Gesundheit der Bevölkerung, sowie der Prophylaxe, Diagnose und Therapie von Erkrankungen beschäftigen. 
@@ -28,7 +37,8 @@ die Leistungsempfänger (Patientinnen und Patienten)
 die Leistungserbringer (z.B. Ärztinnen und Ärzte, Pflegepersonal, Apothekerinnen und Apotheker, Therapeutinnen und Therapeuten u.a.)
 die Leistungsfinanzierer (Kranken-, Pflege- oder Rentenversicherungen)
 Interessenverbände, Interessenvertretungen
-Öffentliches Gesundheitswesen (Synonym: Öffentliches Gesundheitssystem)
+
+# Öffentliches Gesundheitswesen (Synonym: Öffentliches Gesundheitssystem)
 Das Öffentliche Gesundheitswesen umfasst alle Bereiche, Einrichtungen sowie das planmäßiges Handeln der Akteure des Gesundheitswesens(-systems), die der öffentlichen Hand zuzurechnen sind und der Gesundheit dienen. Insbesondere dazu gezählt werden Krankenhäuser, Sozialversicherungsträger, der Sanitätsdienst der Bundeswehr und der ÖGDt. Das Facharztgebiet Öffentliches Gesundheitswesen umfasst die Beobachtung, Begutachtung und Wahrung der gesundheitlichen Belange der Bevölkerung und der öffentlichen Hygiene, die Gesundheitsaufsicht sowie die Verhütung und Bekämpfung von Krankheiten und die Beratung der Träger öffentlicher Aufgaben in gesundheitlichen Fragen einschließlich Planungs- und Gestaltungsaufgaben zu Gesundheitsförderung, Prävention und der gesundheitlichen Versorgung.
 Öffentlicher Gesundheitsdienst 
 Der ÖGD ist die Organisation von Dienststellen auf der Ebene von Bund, Ländern, Kreisen und Gemeinden, die dem Schutz, der Aufrechterhaltung und der Förderung der Gesundheit der Gemeinschaft und des Einzelnen dienen. Die gesetzlichen Grundlagen, nach denen der ÖGD tätig wird, sind zum Teil bundeseinheitlich geregelt, z.B. das Infektionsschutzgesetz und die Trinkwasserverordnung, einzelne Aufgabengebiete werden aber durch länderspezifische Gesetze und Verordnungen unterschiedlich gewichtet.
