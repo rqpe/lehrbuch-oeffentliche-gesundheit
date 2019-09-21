@@ -3,6 +3,6 @@ _site
 .jekyll-metadata
 Gemfile
 Gemfile.lock
-.Rproj.user
+rscript/.Rproj.user
 .Rproj
 .zip

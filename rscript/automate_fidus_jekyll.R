@@ -63,6 +63,8 @@ for (i in pics) {
 # Cleaning up
 file.remove(list.files(".", pattern = ".png$"))
 file.remove(list.files(".", pattern = ".woff$"))
+file.remove(list.files(".", pattern = ".html$"))
+file.remove(list.files(".", pattern = ".zip$"))
 
 
 
