@@ -13,3 +13,10 @@ search_tokenizer_separator: /[\s/]+/
 title: Lehrbuch ÖGD
 
 github: [metadata]
+
+# Aux links for the upper right navigation
+aux_links:
+  "Lehrbuch auf GitHub":
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
+    
+logo: "akademie.jpeg"
