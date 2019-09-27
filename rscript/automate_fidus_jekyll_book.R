@@ -2,6 +2,8 @@
 # This script automates the the process of passing html files 
 # into the jekyll system. Its done for the handbook for infectious diseases
 
+library(stringr)
+library(rmarkdown)
 
 # Unzip the file
 unzip("lehrbuch-ffentlicher-gesundheitsdienst.html.zip")
@@ -13,14 +15,14 @@ htmlfiles <- list.files(".", pattern = ".html$")
 # loop through all zip files
 for (a in htmlfiles) {
 
-# a <- htmlfiles[9]  
+# a <- htmlfiles[3]  
 
 # Get rid of the annoying error of a missing newline
 write("\n", a, append = T)
 
 # Getting the necessary information out of the html-file
 number <- strsplit(strsplit(a, "\\.")[[1]][1], "-")[[1]][2]
-newfilename <- paste0("../docs/ready", a)
+newfilename <- paste0("../docs/ready", paste0(a, ".md"))
 
 # read in the document
 document <- readLines(a)
@@ -33,6 +35,10 @@ title <- strsplit(strsplit(title_line, ">")[[1]][2], "<")[[1]][1]
 document <- document[grep("<div class=\"article-part article-richtext article-body\">", document) ][1]
 document <- str_split(document, "<div class=\"article-part article-richtext article-body\">")[[1]][2]
 
+write(document, "tmp.html")
+pandoc_convert("tmp.html", to = "gfm", output = "tmp.md")
+documentToAppend <- readLines("tmp.md")
+
 # remove the old file if it exists
 if (file.exists(newfilename)) file.remove(newfilename)
 
@@ -44,15 +50,23 @@ write(paste("nav_order:", number), newfilename, append = T)
 write("---", newfilename, append = T)
 # write(paste("{{page.title}}"), newfilename, append = T)
 write(paste(" "), newfilename, append = T)
-write(paste("## Inhaltsverzeichnis Kapitel"), newfilename, append = T)
-write(paste("{: .no_toc .text-delta }"), newfilename, append = T)
+write(paste("<details markdown=\"block\"> "), newfilename, append = T)
+write(paste("  <summary> "), newfilename, append = T)
+write(paste("      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) "), newfilename, append = T)
+write(paste("  </summary>"), newfilename, append = T)
 write(paste(" "), newfilename, append = T)
-write(paste("1.TOC"), newfilename, append = T)
+write(paste("1. TOC"), newfilename, append = T)
 write(paste("{:toc}"), newfilename, append = T)
+write(paste(" </details>"), newfilename, append = T)
 write(paste(" "), newfilename, append = T)
-write(document, newfilename, append = T)
+write(paste("   <p></p>"), newfilename, append = T)
+write(paste(" "), newfilename, append = T)
+write(paste(" "), newfilename, append = T)
+write(documentToAppend, newfilename, append = T)
 
-# file.remove(a)
+
+file.remove("tmp.html")
+file.remove("tmp.md")
 
 }
 
