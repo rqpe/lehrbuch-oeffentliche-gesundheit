@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_04 Aufgaben
+title: 04. Aufgaben des Öffentlichen Gesundheitsdienst
 nav_order: 4
 ---
  
@@ -16,15 +16,13 @@ nav_order: 4
    <p></p>
  
  
-# 
-
 So vielfältig die Aufgaben der kommunalen Gesundheitsämter sind, so
 vielfältig ist auch das Aufgabenspektrum des ÖGD insgesamt. Es umfasst
 sowohl bevölkerungsmedizinische, gruppenspezifische als auch
-individualmedizinische Aufgaben, die zur Vermeidung gesundheitlicher
-Beeinträchtigung, oder gesundheitlicher Schäden, sowie zur Förderung der
-Gesundheit in der Bevölkerung unter Sicherstellung von Qualitätsnormen
-geplant, gesteuert und überwacht werden.
+individualmedizinische Aufgaben. Diese werden zur Vermeidung
+gesundheitlicher Beeinträchtigung oder gesundheitlicher Schäden, sowie
+zur Förderung der Gesundheit in der Bevölkerung unter Sicherstellung von
+Qualitätsnormen geplant, gesteuert und überwacht.
 
 ## Aufgabenspektrum
 
@@ -32,67 +30,74 @@ Ein kommunales Gesundheitsamt erfüllt die Sicherstellung der
 öffentlichen Hygiene und des Infektionsschutzes, die Erstellung
 amtsärztlicher Stellungnahmen und Gutachten, es engagiert sich für die
 Kinder- und Jugendgesundheit, die Zahngesundheit, die
-Gesundheitsförderung und Prävention, Sozialpsychiatrische Dienste
+Gesundheitsförderung und Prävention. Sozialpsychiatrische Dienste
 bieten psychisch Kranken und deren Angehörigen Hilfen an.
 
-*KASTEN: Typischer Arbeitstag einer Amtsärztin  
-Der Morgen beginnt mit einer infektionshygienischen Überwachung einer
-medizinischen Einrichtung, der sich eine Sitzung des Arbeitskreises
-Frühe Hilfen anschließt, aus der sie gerufen wird, da bei einem
-ortsansässigen Studenten der hochgradige Verdacht auf eine akute
-Masernerkrankung besteht.*
-
-*Zeitgleich meldet sich ein besorgter Bürger, der einen Schimmelbefall
-in der Schule seines Kindes vermutet.*
-
-*Später am Nachmittag führt die Amtsärztin die amtsärztliche
-Sprechstunde durch und begutachtet Personen zu unterschiedlichen
-Fragestellungen wie die Prüfung der Dienstunfähigkeit, der
-Studierfähigkeit oder einer Verbeamtung auf Lebenszeit....*
-
-*So oder so ähnlich kann ein Tag im Gesundheitsamt verlaufen .*
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><em>Der Morgen beginnt mit einer infektionshygienischen Überwachung einer medizinischen Einrichtung, der sich eine Sitzung des Arbeitskreises Frühe Hilfen anschließt, aus der sie gerufen wird, da bei einem ortsansässigen Studenten der hochgradige Verdacht auf eine akute Masernerkrankung besteht.</em></p>
+<p><em>Zeitgleich meldet sich ein besorgter Bürger, der einen Schimmelbefall in der Schule seines Kindes vermutet.</em></p>
+<p><em>Später am Nachmittag führt die Amtsärztin die amtsärztliche Sprechstunde durch und begutachtet Personen zu unterschiedlichen Fragestellungen wie die Prüfung der Dienstunfähigkeit, der Studierfähigkeit oder einer Verbeamtung auf Lebenszeit....</em></p>
+<p><em>So oder so ähnlich kann ein Tag im Gesundheitsamt verlaufen.</em></p></td>
+</tr>
+<tr class="even">
+<td><p><em>KASTEN: Typischer Arbeitstag einer Amtsärztin</em></p></td>
+</tr>
+</tbody>
+</table>
 
 Die konkreten Aufgaben unterscheiden sich nach Maßgabe der jeweiligen
-Gesundheitsdienstgesetzen der einzelnen Bundesländer. Gemeinsame
+Gesundheitsdienstgesetze der einzelnen Bundesländer. Gemeinsame
 verbindende Tätigkeitsschwerpunkte sind:
 
-● Gesundheitsschutz, z.B. Infektionsschutz, Ausbruchs- und
-Krisenmanagement, umweltbezogener Gesundheitsschutz, Hygieneüberwachung
-von Krankenhäusern, Beratung und Information einschließlich
-Impfprävention, Medizinalaufsicht,,
+  - Gesundheitsschutz, z.B. Infektionsschutz, Ausbruchs- und
+    Krisenmanagement, umweltbezogener Gesundheitsschutz,
+    Hygieneüberwachung von Krankenhäusern, Beratung und Information
+    einschließlich Impfprävention, Medizinalaufsicht
 
-● Beratung und Information zu unterschiedlichen Gesundheitthemen,
+  - Beratung und Information zu unterschiedlichen Gesundheitsthemen
 
-● amtsärztliche Begutachtung, Plausibilitätsprüfung von
-Todesbescheinigungen
+  - amtsärztliche Begutachtung, Plausibilitätsprüfung von
+    Todesbescheinigungen
 
-● Gesundheitsförderung und Prävention, subsidiäre niedrigschwellige
-Angebote und aufsuchende Gesundheitshilfen, insbesondere bei Personen
-mit besonderen Bedarfen z.B. Kinder- und Jugendgesundheit, Mund- und
-Zahngesundheit, sozialmedizinische Aufgaben wie HIV und STD-Beratung,
-Schwangerenberatung, Sozialpsychiatrie, Suchtberatung),
+  - Gesundheitsförderung und Prävention, subsidiäre niedrigschwellige
+    Angebote und aufsuchende Gesundheitshilfen, insbesondere bei
+    Personen mit besonderen Bedarfen z.B. Kinder- und Jugendgesundheit,
+    Mund- und Zahngesundheit, sozialmedizinische Aufgaben wie HIV und
+    STD-Beratung, Schwangerenberatung, Sozialpsychiatrie,
+    Suchtberatung),
 
-● Koordination, Kommunikation, Moderation, Anwaltschaft,
-Politikberatung, Qualitätssicherung im Rahmen von
-Gesundheitsberichterstattung, Gesundheitsplanung,
-Gesundheitskonferenzen, Öffentlichkeitsarbeit etc.
+  - <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166800">Ko</span>ordination,
+    Kommunikation, Moderation, Anwaltschaft, Politikberatung,
+    Qualitätssicherung im Rahmen von Gesundheitsberichterstattung,
+    Gesundheitsplanung, Gesundheitskonferenzen, Öffentlichkeitsarbeit
+    etc.
 
 ## Hoheitliche Aufgaben
 
 Hoheitliche Aufgaben sind Aufgaben, deren
 [Erfüllung](https://www.juraforum.de/lexikon/erfuellung) dem
 [Staat](https://www.juraforum.de/lexikon/staat) Kraft öffentlichen
-Rechts obliegt. Führt der ÖGD aufgrund gesetzlichen Grundlagen
+Rechts obliegt. Führt der ÖGD aufgrund gesetzlicher Grundlagen
 hoheitliche Aufgaben aus, handelt er als sogenannte Ordnungsbehörde.
 
 Hoheitliche Aufgaben des ÖGD sind z.B. die infektionshygienische
 Überwachung von medizinischen Einrichtungen nach dem
 Infektionsschutzgesetz oder die Unterbringung von psychisch kranken
-Personen nach den Psychisch Kranken Gesetzen der Länder.
+Personen nach den Psychisch-Kranken-(Hilfe-)Gesetze PsychK(H)G der
+Länder.
 
 Bei der Wahrnehmung hoheitlicher Aufgaben ist von großer Bedeutung, dass
-zum Zwecke der Gefahrenabwehr [unter bestimmten Voraussetzungen
-Grundrechte](https://de.wikipedia.org/wiki/Grundrecht) erheblich
+zum Zwecke der
+Gefahrenabwehr<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166800">
+unter
+</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166810">bestimmten
+Voraussetzungen
+</span>[Grundrechte](https://de.wikipedia.org/wiki/Grundrecht) erheblich
 eingeschränkt werden können, wie zum Beispiel die Grundrechte der
 körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der
 Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der
@@ -155,8 +160,9 @@ Gütemerkmal des deutschen Meldewesens.
 ### Überregionales Ausbruchsmanagement
 
 Für kommunale Entscheidungsträger, Krankenhäuser, Rettungsdienste und
-niedergelassene Ärzte/innen sowie Medien sind die Gesundheitsämter im
-Fall einer biologischen Lage erste Ansprechpartner vor Ort.
+niedergelassene Ärztinnen und Ärzte sowie Medien sind die
+Gesundheitsämter im Fall einer biologischen Lage erste Ansprechpartner
+vor Ort.
 
 Lokale Ausbrüche von Erkrankungen werden eher selten auch überregional
 wahrgenommen, jedoch ist zu erwarten, dass auch in Zukunft
@@ -175,7 +181,7 @@ z.B. § 10 GDG Schleswig-Holstein).
 
 Sie erfassen, beurteilen und beraten zum Impfstatus entsprechend den
 aktuellen STIKO-Empfehlungen zu Standard- und Reiseimpfungen. Sie
-erstellen einen Impfplan anhand vorgelegter Impfdokumente und erläutern
+erstellen einen Impfplan anhand vorgelegter Impf-Dokumente und erläutern
 die Dauer und Wirkung des Impfschutzes.
 
 Nach Ausschluss von Kontraindikationen führen sie Impfungen gegen
@@ -184,14 +190,14 @@ impfpräventable Infektionserkrankungen durch.
 ### Infektionshygienische Überwachung
 
 Ein großer Aufgabenbereich der unteren Gesundheitsbehörden ist die
-infektionshygienische Überwachung medizinischer und nicht medizinischer
+infektionshygienische Überwachung medizinischer und nichtmedizinischer
 Einrichtungen laut §§ 23 und 36 Infektionsschutzgesetz.
 
 Mit der Änderung des Infektionsschutzgesetzes im Jahr 2011 wurden die
 Bundesländer verpflichtet, Landeshygieneverordnungen über Hygiene und
 Infektionsprävention in medizinischen Einrichtungen zu erlassen. Zudem
 wird auch in anderen Gesetzen die Verpflichtung zur Hygieneüberwachung
-geregelt, wie z.B. in den Gesundheitsdienstgesetzen der Länder und der
+geregelt, wie z.B. in den Gesundheitsdienst-Gesetzen der Länder und der
 bundesweit geltenden Trinkwasserverordnung.
 
 Nachfolgend werden beispielhaft Einrichtungen genannt, die der
@@ -207,19 +213,34 @@ Antibiotikaeinsatz und gesetzliche Neuregelungen im Bereich der
 Krankenhaushygiene haben den ÖGD verstärkt in die öffentliche
 Wahrnehmung gerückt.
 
-Danach obliegt die infektionshygienische Überwachung von z.B. Kliniken,
-operativ tätigen Arztpraxen, Beatmungs-Wohngemeinschaften, Entbindungs-
-und Dialysestationen, Rettungswachen sowie Tageskliniken,
-Tagespflegeeinrichtungen und Alten- und Pflegeheimen den
-Gesundheitsämtern. Die Einrichtungen werden hinsichtlich ihrer
-Einhaltung rechtlicher und technischer Erfordernisse
+Danach obliegt den Gesundheitsämtern die infektionshygienische
+Überwachung von z.B.
+
+  - Kliniken
+
+  - operativ tätigen Arztpraxen
+
+  - Beatmungs-Wohngemeinschaften
+
+  - Entbindungs- und Dialysestationen
+
+  - Rettungswachen
+
+  - Tageskliniken
+
+  - Tagespflegeeinrichtungen
+
+  - Alten- und Pflegeheimen.
+
+Die Einrichtungen werden hinsichtlich ihrer Einhaltung rechtlicher und
+technischer Erfordernisse
 überprüft.
 
 #### Infektionshygienische Überwachung im Bereich der Körper- und Schönheitspflege
 
 Kosmetikstudios, die Maniküre und/oder Pediküre anbieten, aber auch alle
-Körper- und Schönheitspflegeeinrichtungen, Fitnessstudios, Tätowier- und
-Piercingstudios, Saunen und Solarien werden auf Basis der jeweiligen
+Körper- und Schönheitspflege-Einrichtungen, Fitnessstudios, Tätowier-
+und Piercingstudios, Saunen und Solarien werden auf Basis der jeweiligen
 Landeshygieneverordnung zur Verhütung übertragbarer Krankheiten
 infektionshygienisch überwacht.
 
@@ -242,15 +263,16 @@ EU-Badegewässer, werden regelmäßig kontrolliert.
 #### Infektionshygienische Überwachung Wasserversorgungsanlagen
 
 Zentrale und dezentrale Wasseranlagen,
-Trinkwassereigenversorgungsanlagen, Heilwasserquellen,
-Dorfbrunnen/Laufbrunnen, öffentliche Trinkwasserhausinstallationen sowie
-mobile Trinkwasserversorgungsanlagen, z.B. auf Campingplätzen oder
-Imbissbuden bei Großveranstaltungen, werden regelmäßig kontrolliert.
+Trinkwasser-Eigenversorgungsanlagen, Heilwasserquellen,
+Dorfbrunnen/Laufbrunnen, öffentliche Trinkwasser-Hausinstallationen
+sowie mobile Trinkwasser-Versorgungsanlagen, z.B. auf Campingplätzen
+oder Imbissbuden bei Großveranstaltungen, werden regelmäßig
+kontrolliert.
 
 #### Abwasser und Abfall
 
-Anlagen zur Abwasserbeseitigung wie auch Mülldeponien sowie
-Sondermüllzwischenlager werden regelmäßig kontrolliert. .
+Anlagen zur Abwasserbeseitigung, Mülldeponien sowie
+Sondermüllzwischenlager werden regelmäßig kontrolliert.
 
 #### Sonstige zu überwachende Einrichtungen
 
@@ -269,10 +291,10 @@ Gesundheitsämter überwachen die Qualität von Trinkwasser und
 Badegewässern, sie stellen die Einhaltung von Maßnahme- und Richtwerten
 sicher und leiten ggf. Maßnahmen zur Gefahrenabwehr ein. Die
 Gesundheitsämter informieren und beraten zu gesundheitlichen Belangen
-bei der Abwasserentsorgung, bei Immissions bedingten Gesundheitsgefahren
+bei der Abwasserentsorgung, bei immissionsbedingten Gesundheitsgefahren
 durch z. B. Feinstaub, Geruchsimmissionen, Gefahrstoff-Emissionen, bei
 Gesundheitsgefahren durch belastete Innenraumluft in z. B. Schulen oder
-Kindergärten, zu Bodenbelastungen und Bodenaltlasten insbesondere bei
+Kindergärten, zu Bodenbelastungen und Bodenaltlasten - insbesondere bei
 Expositions- oder Dispositionsrisiko auf z. B. Schulhöfen oder
 Kinderspielplätzen. Sie verfassen Stellungnahmen im Rahmen der
 Bauleitplanung zu Lärmschutz, elektromagnetischen Feldern etc.
@@ -285,7 +307,7 @@ demnach in der Regel immer eine Bevölkerung, d.h. z.B. alle Menschen
 einer Stadt oder eines Landkreis bzw. des ganzen Landes.
 
 Aber der ÖGD nimmt subsidiär auch individualmedizinische Aufgaben für
-einzelne Patienten/innen wahr wenn diese von keiner anderen Stelle im
+einzelne Patient/innen wahr, wenn diese von keiner anderen Stelle im
 ambulanten oder stationären Krankenversorgungssystem Leistungen erhalten
 (können). Beispielsweise werden chronisch kranke, behinderte oder von
 Behinderung bedrohte Personen und deren Angehörigen insbesondere durch
@@ -294,12 +316,11 @@ Dienste betreut und beim Beantragen von Leistungen nach dem
 Sozialgesetzbuch unterstützt. Bei Erkrankung oder in besonderen
 gesundheitlichen Lagen mit medizinischem Versorgungsbedarf, z.B. bei
 einer Schwangerschaft, werden Personen beim Zugang zu adäquater
-gesundheitlicher oder direkt medizinischer Krankenversorgung bzw.
-Betroffene bei der Integration in die bestehenden sozialen
-Sicherungssysteme oder psychisch kranke Menschen bei der Wohnungssuche
-unterstützt.
+gesundheitlicher oder direkt medizinischer Krankenversorgung. Betroffene
+werden bei der Integration in die bestehenden sozialen Sicherungssysteme
+oder psychisch kranke Menschen bei der Wohnungssuche unterstützt.
 
-Zudem gilt dieses zunehmend auch für Menschen ohne-Papiere
+Zudem gilt dieses zunehmend auch für Menschen ohne Ausweispapiere
 (sans-papiers), die sich ohne legalen Aufenthaltsstatus in Deutschland
 aufhalten und somit keinen regulären Zugang zur Regelkrankenversorgung
 haben. Sogenannte “Humanitäre Sprechstunden”, wie sie von
@@ -333,44 +354,45 @@ Behörden tätig, selten im Auftrag von Privatpersonen.
 Beispiele für amtsärztliche Tätigkeiten und Untersuchungen im Auftrag
 von Behörden:
 
-● Einstellungsuntersuchungen von Bewerbern/innen für den öffentlichen
-Dienst,
+  - Einstellungsuntersuchungen von Bewerbern/innen für den öffentlichen
+    Dienst,
 
-● Feststellung der gesundheitlichen Eignung zur Ausübung bestimmter
-Berufe wie bspw. Polizisten/innen, Feuerwehrleuten,
+  - Feststellung der gesundheitlichen Eignung zur Ausübung bestimmter
+    Berufe wie bspw. Polizisten/innen, Feuerwehrleuten,
 
-● Beurteilung der Dienstfähigkeit von Beamten/innen,
+  - Beurteilung der Dienstfähigkeit von Beamten/innen,
 
-● Beurteilung der Arbeitsfähigkeit von Beschäftigten im öffentlichen
-Dienst,
+  - Beurteilung der Arbeitsfähigkeit von Beschäftigten im öffentlichen
+    Dienst,
 
-● Begutachtungen nach dem SGB XII
+  - Begutachtungen nach dem SGB XII
 
-● Feststellung der medizinischen Notwendigkeit von Heil- und
-Hilfsmitteln sowie von Heil- und Sanatoriumskuren für Beschäftigte des
-öffentlichen Dienstes,
+  - Feststellung der medizinischen Notwendigkeit von Heil- und
+    Hilfsmitteln sowie von Heil- und Sanatoriumskuren für Beschäftigte
+    des öffentlichen Dienstes,
 
-● Beurteilung der Haftfähigkeit, Verhandlungsfähigkeit, Schuldfähigkeit,
-Arbeits-/Erwerbsfähigkeit, Betreuung im Rechtssinne für Gerichte,
+  - Beurteilung der Haftfähigkeit, Verhandlungsfähigkeit,
+    Schuldfähigkeit, Arbeits-/Erwerbsfähigkeit, Betreuung im
+    Rechtssinne für Gerichte,
 
-● Feststellung der Reisefähigkeit von Personen, zum Beispiel für
-Gerichte und Ausländerbehörden,
+  - Feststellung der Reisefähigkeit von Personen, zum Beispiel für
+    Gerichte und Ausländerbehörden,
 
-● Feststellung der gesundheitlichen Eignung zum Führen von
-Kraftfahrzeugen,
+  - Feststellung der gesundheitlichen Eignung zum Führen von
+    Kraftfahrzeugen,
 
-● Feststellung der Pflegebedürftigkeit gemäß SGB XI.
+  - Feststellung der Pflegebedürftigkeit gemäß SGB XI.
 
 Beispiele für amtsärztliche Tätigkeiten und Untersuchungen im Auftrag
 von Privatpersonen:
 
-● Erlass der Studiengebühren aus gesundheitlichen Gründen,
+  - Erlass der Studiengebühren aus gesundheitlichen Gründen,
 
-● Feststellung der Prüfungsunfähigkeit aus gesundheitlichen Gründen,
-Verlängerung der Abgabefrist für z.B. eine Diplomarbeit wegen einer
-Erkrankung der Studierenden,
+  - Feststellung der Prüfungsunfähigkeit aus gesundheitlichen Gründen,
+    Verlängerung der Abgabefrist für z.B. eine Diplomarbeit wegen einer
+    Erkrankung der Studierenden,
 
-● Bescheinigung für das Finanzamt bzgl. der Notwendigkeit einer Kur.
+  - Bescheinigung für das Finanzamt bzgl. der Notwendigkeit einer Kur.
 
 ## Amtliche Leichenschau
 
@@ -388,14 +410,14 @@ zweiten Leichenschau vor Kremation und der Aufarbeitung der
 Todesbescheinigungen.
 
 Die Durchführung der ersten Leichenschau mit Ausfüllen der
-Todesbescheinigung erfolgt durch niedergelassene Ärzte/innen,
-Ärzte/innen in den Krankenhäusern oder Notärzte/innen.
+Todesbescheinigung erfolgt durch niedergelassene Ärzt/innen, Ärzt/innen
+in den Krankenhäusern oder Notärzt/innen.
 
 Vor einer Einäscherung muss eine zweite Leichenschau durchgeführt
 werden, diese Aufgabe obliegt in manchen Bundesländern dem ÖGD.
 
 In Landkreisen und Städten, in denen ein Krematorium vorhanden ist, wird
-die zweite Leichenschau in der Regel durch Ärzte/innen aus den
+die zweite Leichenschau in der Regel durch Ärzt/innen aus den
 Gesundheitsämtern durchgeführt, auch wenn dies nicht flächendeckend der
 Fall ist. In den übrigen Regionen wird von den Gesundheitsämtern
 lediglich eine Plausibilitätskontrolle der Todesbescheinigungen
@@ -449,7 +471,8 @@ Kernaufgaben der Sozialpsychiatrischen Dienste formuliert:
 
 (5) Beschwerdemanagement und Fachaufsicht.
 
-(mehr: REF:https//www.sozialpsychiatrische-dienste.de)
+(mehr:
+[https//www.sozialpsychiatrische-dienste.de](https//www.sozialpsychiatrische-dienste.de "Sozialpsychiatrische Dienste"))
 
 ### Niederschwellige Beratung und Begleitung
 
@@ -475,14 +498,14 @@ niederschwellige Betreuung vor.
 
 ### Krisenintervention und Unterbringung
 
-Menschen können einmalig , mehrmals oder im Rahmen lang dauernder
+Menschen können einmalig, mehrmals oder im Rahmen lang dauernder
 Beeinträchtigungen immer wieder in gefährliche Zuspitzungen ihrer
 psychosozialen Problemlage geraten. Eine Krise kann auftreten als akute
 seelische Notlage unter besonderer Belastung, als psychiatrischer
 Notfall bei akutem Krankheitsbild oder als akute Zuspitzung einer schon
 länger bestehenden psychischen Erkrankung.
 
-Es kann dann sein, das ein aktives, die Situation gestaltendes und
+Es kann dann sein, dass ein aktives, die Situation gestaltendes und
 veränderndes Handeln unter Anwendung spezifischer
 diagnostisch-therapeutischer Fähigkeiten und Erfahrungen notwendig ist.
 
@@ -548,16 +571,16 @@ Zeugen und/oder Vermissenden sowie Einsatzkräften.
 
 Mit einer frühzeitigen PSNV sollen möglich gemacht werden:
 
-● Prävention von psychosozialen Belastungsfolgen,
+  - Prävention von psychosozialen Belastungsfolgen,
 
-● Früherkennung von psychosozialen Belastungsfolgen nach belastenden
-Notfällen bzw. Einsatzsituationen,
+  - Früherkennung von psychosozialen Belastungsfolgen nach belastenden
+    Notfällen bzw. Einsatzsituationen,
 
-● Bereitstellung von adäquater Unterstützung und Hilfe für betroffene
-Personen und Gruppen zur Erfahrungsverarbeitung und
+  - Bereitstellung von adäquater Unterstützung und Hilfe für betroffene
+    Personen und Gruppen zur Erfahrungsverarbeitung und
 
-● angemessene Behandlung von Traumafolgestörungen und – bezogen auf
-Einsatzkräfte – einsatzbezogene psychische Fehlbeanspruchungsfolgen.
+  - angemessene Behandlung von Traumafolgestörungen und – bezogen auf
+    Einsatzkräfte – einsatzbezogene psychische Fehlbeanspruchungsfolgen.
 
 Nicht in jeder Kommune ist die PSNV im Gesundheitsamt, oder bei einer
 anderen Institution wie z.B. der Feuerwehr, verortet, allerdings sollte
@@ -566,9 +589,10 @@ eine kommunale Einrichtung zuständig sein. Leider kann daher nicht
 zurückgegriffen werden. Teilweise fehlt weiterhin aufgrund regionaler
 Gegebenheiten ein deutschlandweit umfassendes und flächendeckendes Netz
 an PSNV-Angeboten. Das betrifft in erster Linie die PSNV im Bezug auf
-die psychosoziale Akuthilfe. \[REF: Bundesamt für Bevölkerungsschutz und
-Katastrophenhilfe (BBK): Psychosoziale Notfallversorgung:
-Qualitätsstandards und Leitlinien Teil I und II; 3. Auflage: 07.2012\]
+die psychosoziale
+Akuthilfe<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166810">
+<span class="citation">(*Psychosoziale Notfallversorgung:
+Qualitätsstandards und Leitlinien(Teil I und II)*, 2012)</span>.</span>
 
 ## Kinder- und Jugendgesundheit
 
@@ -576,7 +600,7 @@ Die Tätigkeit des Kinder- und Jugendärztlichen Dienstes (KJGD) mit
 seinen vielfältigen Funktionen gehört traditionell zu den
 Aufgabenschwerpunkten der Gesundheitsämter.
 
-Ziel der Arbeit des KGJD ist, das Kinder und Jugendliche gesund
+Ziel der Arbeit des KGJD ist, dass Kinder und Jugendliche gesund
 aufwachsen und ihre körperliche, geistige und seelische Entwicklung zu
 fördern. Dabei hat der KJGD immer sowohl individualmedizinische als
 auch bevölkerungsmedizinische Aspekte zu beachten.
@@ -593,30 +617,30 @@ Zu seinen Aufgaben gehören u.a. gutachterliche Tätigkeiten im Rahmen der
 Eingliederungshilfe, der Sonderpädagogik und Frühförderung sowie
 (Reihen-)Untersuchungen in Krippen, Kindertagesstätten (Kitas) und
 Schulen, zum Teil mit betriebsärztlicher Funktion, z.B. im Rahmen der
-Unfallprävention und des, Infektionsschutzes.
+Unfallprävention und des Infektionsschutzes.
 
 In den letzten Jahren ist in Deutschland darüber hinaus das Thema
 Kinderschutz zunehmend in die Aufmerksamkeit der Öffentlichkeit
 gekommen. Das im Januar 2012 in Kraft getretene Bundeskinderschutzgesetz
 (BKiSchG) unterstreicht den politischen Stellenwert. Der öffentliche
-Gesundheitsdienst im allgemeinen und der KJGD im besonderen hat dabei
-eine wichtige Vermittlungsfunktionen zwischen niedergelassenen
-Kinderärzten, Kindertageseinrichtungen und der Jugendhilfe übernehmen.
-Mitarbeitenden im KJGD haben Kontakte zu Menschen aus allen
+Gesundheitsdienst im allgemeinen und der KJGD im Besonderen hat dabei
+eine wichtige Vermittlungsfunktion zwischen niedergelassenen
+Kinderärzten, Kindertageseinrichtungen und der Jugendhilfe zu
+übernehmen. Mitarbeitende im KJGD haben Kontakte zu Menschen aus allen
 Sozialschichten und sind häufig bereits umfangreich in die Begleitung
 von Multiproblemfamilien eingebunden. Dadurch sind sie prädestiniert
 Kinder mit erhöhtem Risiko langfristig zu begleiten und deren Familien
-mit regelmäßigen Untersuchungs- und Unterstützungsangeboten zu stärken.
-(REF: P Freynik Kinderschutz – die Rolle des KJGD Gesundheitswesen 2012;
-74 - V32 DOI: 10.1055/s-0032-1307296)
+mit regelmäßigen Untersuchungs- und Unterstützungsangeboten zu
+stärken.<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166810">
+<span class="citation">(Freynik, 2012, 2012)</span></span>
 
 ## Mund- und Zahngesundheit
 
-Innerhalb des ÖGD sind Fachzahnärzte/innen des Zahnärztlichen Dienst
+Innerhalb des ÖGD sind Fachzahnärzt/innen des Zahnärztlichen Dienstes
 (ZÄD) zuständig für die Mund- und Zahngesundheit der Bevölkerung,
 vorrangig von Kindern und Jugendlichen, zunehmend ist auch die
 Verbesserung der Mundgesundheit von Senioren in Pflegeheimen eine
-wichtige Aufgabe der Zahnärzte/innen im ÖGD.
+wichtige Aufgabe der Zahnärzt/innen im ÖGD.
 
 Ziel des ZÄD ist die Zahngesundheit zu fördern und präventiv tätig zu
 sein.
@@ -635,8 +659,8 @@ Erkrankungen und zur Förderung der Gesundheit von Kindern und
 Jugendlichen durch.
 
 Eine zahnärztliche Betreuung der Bevölkerung – insbesondere von Kindern
-und Jugendlichen - durch einen ZÄD ist unverzichtbar. Trotz Rückgang des
-Kariesbefalls (engl. „caries decline“) weist in Abhängigkeit vom
+und Jugendlichen - durch einen ZÄD ist unverzichtbar. Trotz Rückgangs
+des Kariesbefalls (engl. „caries decline“) weist in Abhängigkeit vom
 sozialen Status etwa ein Viertel der Kinder und Jugendlichen immer noch
 schwere Schäden im Gebiss auf, mit Folgen für ihre gesamte
 gesundheitliche Entwicklung. Weitere Teile der jugendlichen Bevölkerung
@@ -678,7 +702,7 @@ in Ausübung ihrer beruflichen Tätigkeit Angaben über gewichtige
 Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder
 Jugendlichen in pseudonymisierter Form an Träger der Jugendhilfe
 weiterzuleiten. Den Zahnärzte/innen im ÖGD kommt in diesem Zusammenhang
-eine Schlüsselrolle zu, da eine schlechte Zahngesundheit ein erster,
+eine Schlüsselrolle zu, da eine schlechte Zahngesundheit ein erster
 zentraler Indikator für Vernachlässigung sein kann.
 
 ## Gesundheitsberichterstattung und Politikberatung
@@ -695,37 +719,34 @@ zusätzlich globale Einflüsse auf Gesundheit in Betracht ziehen.
 
 Die Gesundheitsberichterstattung (GBE) in Deutschland bildet die
 Grundlage für alle im öffentlichen Interesse gefällten Entscheidungen
-zum Thema Gesundheit. Nationalen Ziele und Strategien für Forschung zur
-Bevölkerungsgesundheit muss daher deutlich im öffentlichen Interesse
-formuliert werden.
+zum Thema Gesundheit. Nationale Ziele und Strategien für Forschung zur
+Bevölkerungsgesundheit müssen daher deutlich im öffentlichen Interesse
+formuliert
+werden.
 
-KASTEN: Wissenschaftlichen Zusammenarbeit zwischen ÖGD und
-Forschungseinrichtungen außerhalb des ÖGD werden in Berlin auf dem
-Gebiet der epidemiologischen Tuberkuloseforschung verwirklicht. Hier hat
-sich eine Forschungskooperationen zwischen dem für gesamt Berlin
-zuständigen Zentrum für tuberkulosekranke und –gefährdete Menschen in
-Berlin-Lichtenberg, dem Robert Koch-Institut (RKI), der Charité
-Universitätsmedizin Berlin, dem Deutschen Zentralkomitee zur Bekämpfung
-der Tuberkulose (DZK) sowie der Berlin School of Public Health (BSPH)
-etabliert, finanziert von der Deutschen Forschungsgemeinschaft (DFG)..
-Die Zusammenarbeit ermöglichen den beteiligten klinischen, akademischen
-und öffentlichen Einrichtungen interessante und wichtige empirische
-Erkenntnisse zur Situation und Entwicklung der Tuberkulose in
-Deutschland.
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wissenschaftlichen Zusammenarbeit zwischen ÖGD und Forschungseinrichtungen außerhalb des ÖGD werden in Berlin auf dem Gebiet der epidemiologischen Tuberkuloseforschung verwirklicht. Hier hat sich eine Forschungskooperationen zwischen dem für Gesamt-Berlin zuständigen Zentrum für tuberkulosekranke und –gefährdete Menschen in Berlin-Lichtenberg, dem Robert Koch-Institut (RKI), der Charité Universitätsmedizin Berlin, dem Deutschen Zentralkomitee zur Bekämpfung der Tuberkulose (DZK) sowie der Berlin School of Public Health (BSPH) etabliert, finanziert von der Deutschen Forschungsgemeinschaft (DFG).. Die Zusammenarbeit ermöglichen den beteiligten klinischen, akademischen und öffentlichen Einrichtungen interessante und wichtige empirische Erkenntnisse zur Situation und Entwicklung der Tuberkulose in Deutschland. |
+| KASTEN<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166810">: Wissenschaft</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166820">liche Kooperationen</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## Gesundheitsförderung
 
 Gesundheitsförderung unterstützt Individuen bei einer gesunden
 Lebensführung und Bevölkerungen bei der Gestaltung
-gesundheitsförderlicher Lebenswelten (z.b. in Schulen und Kitas).
+gesundheitsförderlicher Lebenswelten (z.B. in Schulen und Kitas).
 
-Ziele der Gesundheitsförderung sind es, allen Menschen, unabhängig von
+Ziele der Gesundheitsförderung sind, allen Menschen, unabhängig von
 ihrer Herkunft, ihres Geschlechts, ihrer Bildung, ihrer sozialen und
 wirtschaftlichen Stellung die gleichen Möglichkeiten auf ein gesundes
 Leben zu geben, ein höheres Maß an Selbstbestimmung über ihre Gesundheit
-zu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu befähigen
-(Ref: Ottawa-Charta 1986
-<http://www.euro.who.int/__data/assets/pdf_file/0006/129534/Ottawa_Charter_G.pdf>).
+zu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu
+befähigen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166820">
+<span class="citation">(*<span style="font-style:normal;">Ottawa Charter
+for Health Promotion: First International Conference on Health Promotion
+Ottawa</span>*,
+1986)</span><span class="citation">(*<span style="font-style:normal;">Ottawa
+Charter for Health Promotion: First International Conference on Health
+Promotion Ottawa</span>*, 1986)</span>.</span>
 
 Dabei geht es auch um eine unabhängige, frühzeitige und fachlich
 fundierte Aufklärung der Bevölkerung, z.B. im Rahmen der Förderung eines
@@ -739,8 +760,8 @@ sowohl durch individuelle als auch soziale und gesellschaftliche
 Hintergründe beeinflusst ist. Gesundheitsförderung schließt deshalb
 nicht nur Handlungen und Aktivitäten ein, die auf die Stärkung der
 Kenntnisse und Fähigkeiten von Individuen gerichtet sind, sondern auch
-an Bevölkerungen um deren soziale, ökonomische sowie ökologische
-Bedingungen zu verändern, so dass diese positiv auf die individuelle und
+an Bevölkerungen, um deren soziale, ökonomische sowie ökologische
+Bedingungen zu verändern, sodass diese positiv auf die individuelle und
 bevölkerungsbezogene Gesundheit wirken. In diesem Sinne kommt der
 politischen Ebene eine besondere Bedeutung zu.
 
@@ -752,10 +773,10 @@ Partizipation bedeutet die Einbindung in die Gestaltung von Angeboten um
 die Akzeptanz durch die jeweilige Zielgruppe zu erhöhen. Deren
 Potentiale zu erkennen und zu stärken, vorhandene Ressourcen
 anzuerkennen und hervorzuheben ist das Ziel, um integrierende Angebote
-und Maßnahme zu initiieren oder in bestehende Angebote einzubinden und
+und Maßnahmen zu initiieren oder in bestehende Angebote einzubinden und
 eine Stigmatisierung der Zielgruppe zu vermeiden. Dabei ist es wichtig
 einen Lebensweltbezug herzustellen, z.B. durch praktische Versorgungs-
-und Entlastungsangebote wie. Kochen, Sozialberatung, die möglichst die
+und Entlastungsangebote wie Kochen und Sozialberatung, die möglichst die
 ganze Familie mit einbeziehen. Das erhöht die Akzeptanz, denn Gesundheit
 steht bei sozial benachteiligten Familien häufig nicht an erster Stelle,
 da ihr Alltag durch z.B. finanzielle Probleme, Wohnungsnot,
@@ -767,30 +788,30 @@ kommunale Verantwortung für die kommunale Steuerung und Wirkkontrolle zu
 übernehmen. Er setzt dabei die Grundsätze des public health action
 cycles: “Plan-do-check-act” um.
 
-Spezifische Aufgabe des ÖGD sind, gesundheitsfördernde Angebote räumlich
-und thematisch dort zu veranlassen und zu unterstützen, wo andernfalls
-Defizite mit nachteiligen gesundheitlichen Folgen zu befürchten sind.
-Beteiligt werden dabei gesundheitsrelevante Einrichtungen,
-Vertreterinnen und Vertreter der Politik, bereits bestehende Gruppen,
-einzelne Bewohnerinnen und Bewohner des Quartiers. Zugang zu den
-Menschen ist möglich durch Gesundheitsförderung vor Ort, um sozial
-Benachteiligte zu erreichen. Dazu werden Angebote an den Orten
-(Settings) gemacht werden, an denen sich die Menschen regelmäßig
-aufhalten oder leben, z.B. Kita, Schule, Kulturtreffs und Stadtteile.
+Die spezifische Aufgabe des ÖGD ist gesundheitsfördernde Angebote
+räumlich und thematisch dort zu veranlassen und zu unterstützen, wo
+andernfalls Defizite mit nachteiligen gesundheitlichen Folgen zu
+befürchten sind. Beteiligt werden dabei gesundheitsrelevante
+Einrichtungen, Vertreterinnen und Vertreter der Politik, bereits
+bestehende Gruppen, einzelne Bewohnerinnen und Bewohner des Quartiers.
+Zugang zu den Menschen ist möglich durch Gesundheitsförderung vor Ort,
+um sozial Benachteiligte zu erreichen. Dazu werden Angebote an den Orten
+(Settings) gemacht, an denen sich die Menschen regelmäßig aufhalten oder
+leben, z.B. Kita, Schule, Kulturtreffs und Stadtteile.
 
 Sozial Benachteiligte sind keine homogene Gruppe, Menschen mit
 Migrationshintergrund brauchen z.B. eine andere Ansprache als Personen
-ohne Migrationshintergrund. Ein stadtteilorientiertes, vernetztes,
+ohne Migrationshintergrund. Ein Stadtteil-orientiertes vernetztes
 multidisziplinäres und gemeinsames Vorgehen fördert die Inanspruchnahme
 und die Zufriedenheit.
 
 Insgesamt engagieren sich auf dem Gebiet der Gesundheitsförderung eine
-Vielzahl verschiedener, oft unabhängig voneinander operierende und von
-unterschiedlichen Zielsetzungen geleitete profit-orientierte Anbieter.
+Vielzahl verschiedener profit-orientierter Anbieter, oft unabhängig
+voneinander operierend und von unterschiedlichen Zielsetzungen geleitet.
 Dadurch können Überangebote ebenso entstehen wie Angebotslücken. Im
 Interesse eines flächendeckenden, umfassenden und abgestimmten Angebots
 an Gesundheitsförderungsmaßnahmen ist ein zunehmender Schwerpunkt der
-Aufgaben des ÖGD, die Leistungen anderer, auch privater Anbieter, zu
+Aufgaben des ÖGD, die Leistungen anderer, auch privater, Anbieter zu
 initiieren und zu koordinieren.
 
 Der Vernetzung mit anderen Akteuren kommt in der Gesundheitsförderung
@@ -800,8 +821,8 @@ verbessert werden sollte.
 
 ## Prävention
 
-Prävention leitet sich vom lateinischen Begriff prävenire = Zuvorkommen,
-Vorbeugen ab.
+Prävention leitet sich vom lateinischen Begriff pravenire = zuvorkommen,
+vorbeugen ab.
 
 Ziel der Prävention ist die generelle Verhinderung einer neuen bzw das
 Fortschreiten einer bestehenden Krankheit.
@@ -921,6 +942,8 @@ heißt die Beaufsichtigung und Überwachung der im Gesundheitswesen
 tätigen Personen und Einrichtungen, die Apothekenaufsicht und fachliche
 Mitwirkung bei Bauplanungen sowie das Mitwirken beim Katastrophenschutz.
 
-<div class="section fnlist" data-role="doc-footnotes">
+# 
+
+<div class="csl-bib-body">
 
 </div>

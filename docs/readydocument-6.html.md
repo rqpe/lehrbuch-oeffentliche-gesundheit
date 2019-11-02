@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_07 Verwaltungshandeln
+title: 07. Verwaltungshandeln
 nav_order: 6
 ---
  
@@ -16,13 +16,11 @@ nav_order: 6
    <p></p>
  
  
-# Verwaltungshandeln
-
-Öffentlich-rechtliches Verwaltungshandeln ist im formellen Sinn die von
+Öffentlich-rechtliches Verwaltungshandeln ist im formellen Sinne die von
 Verwaltungsbehörden ausgeübte Tätigkeit und im materiellen Sinne die
 Wahrnehmung von Verwaltungsaufgaben.
 
-Verwaltunghandlen kann faktisch, z.B. im Form von Auskünfte oder
+Verwaltunghandeln kann faktisch, z.B. in Form von Auskünften oder
 Warnungen, oder regelnd sein. Dabei wirkt regelndes Handeln entweder
 intern, in Form von Verwaltungsvorschriften oder Weisungen, oder hat
 eine Außenwirkung im Rahmen allgemeiner Rechtsnormen oder als
@@ -31,13 +29,13 @@ Einzelfall.
 Daraus resultieren in der Verwaltung nach Zweck und Recht
 unterschiedliche Verwaltungstätigkeiten:
 
-● Eingriffsverwaltung
+  - Eingriffsverwaltung
 
-● Leistungsverwaltung (Daseinsvorsorge)
+  - Leistungsverwaltung (Daseinsvorsorge)
 
-● Gewährleistungs- und Regulierungsverwaltung
+  - Gewährleistungs- und Regulierungsverwaltung
 
-Dabei liegt eine Eingriffsverwaltungliegt, wenn die Verwaltung in die
+Dabei liegt eine Eingriffsverwaltung vor, wenn die Verwaltung in die
 Rechtssphäre des Bürgers eingreift und dessen Freiheit und Eigentum
 beschränkt, z.B. im Rahmen der Gefahrenabwehr oder zum Schutz der
 öffentlichen Sicherheit.
@@ -46,8 +44,8 @@ Als Leistungsverwaltung bezeichnet man die Verwaltungstätigkeit, bei der
 die Verwaltung dem Bürger Leistungen oder sonstige Vergünstigungen
 gewährt.
 
-Dagegen ist Gewährleistungsverwaltung wenn eine Verwaltung traditionell
-von ihr
+Dagegen ist es Gewährleistungsverwaltung, wenn eine Verwaltung
+traditionell von ihr
 
 wahrgenommene Aufgaben nicht selbst erfüllt, sondern sie durch andere
 Institution, z.B. private Träger erfüllen lässt (Privatisierung). Unter
@@ -66,35 +64,37 @@ Eine Behörde in diesem Sinn ist jede Stelle, die Aufgaben der
 öffentlichen Verwaltung wahrnimmt.
 
 Der Begriff des Verwaltungsaktes ist gesetzlich geregelt im
-Verwaltungsverfahrensgesetz (VwVfG) des Bundes:
+[Verwaltungsverfahrensgesetz
+(VwVfG)](https://www.gesetze-im-internet.de/vwvfg/ "VwVfG") des Bundes:
 
-“Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche
-Maßnahme, die eine Behörde zur Regelung eines Einzelfalls auf dem Gebiet
-des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung
-nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der
-sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren
-Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer
-Sache oder ihre Benutzung durch die Allgemeinheit betrifft.”
+*“Verwaltungsakt ist jede Verfügung, Entscheidung oder andere
+hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls
+auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare
+Rechtswirkung nach außen gerichtet ist. Allgemeinverfügung ist ein
+Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen bestimmten
+oder bestimmbaren Personenkreis richtet oder die öffentlich-rechtliche
+Eigenschaft einer Sache oder ihre Benutzung durch die Allgemeinheit
+betrifft.”*
 
 (§ 35 VwVfG)
 
 Die unterschiedlichen Maßnahmen einer Behörde die durch einen
 Verwaltungsakt geregelt werden, können unterschieden werden in:
 
-● **Verbot** eines Verhaltens ,wie z.B. Anordnung der Schließung der
-ambulanten Operationsräume einer Arztpraxis wegen gravierender
-Hygienemängel (§ 16 I IfSG) oder die Anordnung der Unterbrechung der
-betr. Wasserversorgung (§ 9 III TrinkwV).
+  - **Verbot** eines Verhaltens ,wie z.B. Anordnung der Schließung der
+    ambulanten Operationsräume einer Arztpraxis wegen gravierender
+    Hygienemängel (§ 16 I IfSG) oder die Anordnung der Unterbrechung der
+    betr. Wasserversorgung (§ 9 III TrinkwV).
 
-● **Gebot** eines Verhaltens, wie z.B. Anordnung von Schutzmaßnahmen
-(Anordnung der Beobachtung §§ 28, 29 IfSG), Anordnung der Quarantäne (§
-30 I IfSG) oder Anordnung der Untersuchung von Legionellen (§§ 20 I, 14
-III TrinkwV)
+  - **Gebot** eines Verhaltens, wie z.B. Anordnung von Schutzmaßnahmen
+    (Anordnung der Beobachtung §§ 28, 29 IfSG), Anordnung der Quarantäne
+    (§ 30 I IfSG) oder Anordnung der Untersuchung von Legionellen (§§ 20
+    I, 14 III TrinkwV)
 
-● **Rechtsgewährung**, wie z.B. Erteilung der Fahrerlaubnis, Erteilung
-der Approbation (§ 3 BÄO, § 4 BApO), Erlaubnis zum Arbeiten mit
-Krankheitserregern (§44 I IfSG) oder die Herstellungserlaubnis (§ 13
-AMG, Zulassung)
+  - **Rechtsgewährung**, wie z.B. Erteilung der Fahrerlaubnis, Erteilung
+    der Approbation (§ 3 BÄO, § 4 BApO), Erlaubnis zum Arbeiten mit
+    Krankheitserregern (§44 I IfSG) oder die Herstellungserlaubnis (§ 13
+    AMG, Zulassung)
 
 ## Erlass
 
@@ -111,14 +111,14 @@ Adressaten des Erlasses zu überprüfen, ob der Erlass mit geltendem Recht
 vereinbar ist (Siehe Vorrang und Vorbehalt des Gesetzes).
 
 Bei einem Erlass kann es sich z.B. um eine Anordnung eines
-Landesministeriums an die kommunale Ebene handeln die das dem Ziel hat
+Landesministeriums an die kommunale Ebene handeln die zum Ziel hat
 Verwaltungshandeln einheitlich zu gestalten.
 
 ### Verfügung
 
 Eine Verfügung (im Verwaltungsrecht, einem Teilgebiet des Öffentlichen
 Rechtes) ist eine Maßnahme oder Entscheidung einer Behörde. Sie kann in
-Form eines Bescheids, nach außen gegeben werden, oder als Büroverfügung
+Form eines Bescheids nach außen gegeben werden oder als Büroverfügung
 Anweisungen für den innerdienstlichen Betrieb enthalten.
 
 ### Bescheid
@@ -131,14 +131,14 @@ Verwaltungsakt).
 Zur Form des Bescheids gehören regelmäßig Tenor, Begründung und
 Rechtsbehelfsbelehrung.
 
-### Dienstanweisung,
+### Dienstanweisung
 
-Eine Dienstanweisung (abgekürzt DA) ist ein verbindlichen Arbeitsauftrag
+Eine Dienstanweisung (abgekürzt DA) ist ein verbindlicher Arbeitsauftrag
 an einzelne Personen oder eine Personengruppe, z.B. Angehörige des
-Nachtdienste). Zwischen Auftraggeber und Auftragnehmer muss es dazu ein
+Nachtdienstes). Zwischen Auftraggeber und Auftragnehmer muss es dazu ein
 Dienstverhältnis geben, welches den Handlungsraum und die mit der
 Ausführung der Dienstanweisung verbundene Ressourcenallokation
-eindeutig regelt (wer macht wo und wann was?).
+eindeutig regelt. Also: wer macht wo und wann was?
 
 Eine Dienstanweisung gilt, ähnlich wie eine Verwaltungsvorschrift, stets
 nur im Innenverhältnis einer Behörde, d.h. sie begründet keine Rechte
@@ -149,22 +149,22 @@ oder Pflichten für Personen außerhalb der Behörde, in der sie gilt.
 Eine Gebietskörperschaft ist eine Körperschaft, deren Zuständigkeit und
 Mitgliedschaft territorial bestimmt ist.
 
-Ihre Gebietshoheit ist jeweils auf einem räumlich abgegrenzten Teil des
+Ihre Gebietshoheit ist jeweils auf einen räumlich abgegrenzten Teil des
 Staatsgebietes beschränkt. Im engeren Sinn sind Gebietskörperschaften
-Gemeinden, Kommunale Verbände, Landkreise und Bezirke, im weiteren Sinn
-fallen auch die deutschen Bundesländer.
+Gemeinden, Kommunale Verbände, Landkreise und Bezirke gemeint, im
+weiteren Sinn kommen auch die deutschen Bundesländer dazu.
 
 Sie grenzen sich dadurch von solchen Körperschaften ab, deren
-Mitgliedschaft durch persönliche Eigenschaften bestimmt werden, z.B.
+Mitgliedschaft durch persönliche Eigenschaften bestimmt werden, z.B. die
 Ärztekammer.
 
 ### Dienstaufsicht
 
 Das Aufsichts- und Weisungsrecht der höheren Behörde gegenüber der
-nachgeordneten Behörde und des Vorgesetzten gegenüber seinen
-untergebenen Beamten wird als Dienstaufsicht bezeichnet. Sie umfasst die
-fachliche und rechtliche Kontrolle der Ausübung des Dienstes. Die
-Dienstaufsicht ist Kernaufgabe von Dienstvorgesetzten.
+nachgeordneten und des Vorgesetzten gegenüber seinen untergebenen
+Beamten wird als Dienstaufsicht bezeichnet. Sie umfasst die fachliche
+und rechtliche Kontrolle der Ausübung des Dienstes. Die Dienstaufsicht
+ist Kernaufgabe von Dienstvorgesetzten.
 
 Der Dienstaufsichtsberechtigte ist weisungsbefugt und kann bei Verstößen
 gegen die Dienstpflicht Disziplinarmaßnahmen veranlassen.
@@ -204,10 +204,12 @@ ersuchende Behörde genannt. Die Behörde, die Amtshilfe leisten soll,
 wird als ersuchte Behörde bezeichnet.
 
 Nach dem Grundgesetz leisten sich alle Behörden des Bundes und der
-Länder gegenseitig Rechts- und Amtshilfe.
+Länder gegenseitig Rechts- und Amtshilfe:
 
-“Alle Behörden des Bundes und der Länder leisten sich gegenseitig
-Rechts- und Amtshilfe.” (Art. 35 Abs. 1 GG).
+*“Alle Behörden des Bundes und der Länder leisten sich gegenseitig
+Rechts- und Amtshilfe.”*
+
+(Art. 35 Abs. 1 GG)
 
 Das VwVfG regelt in § 5 die Voraussetzungen und Grenzen der Amtshilfe.
 Ein triftiger Grund die Amtshilfe zu verweigern könnte Vorliegen von
@@ -233,10 +235,10 @@ in der Genfer Deklaration des Weltärztebundes (Genfer Gelöbnis) und in
 standesrechtlichen Normen der Bundes- und Landesärztekammern
 festgehalten wurden, eingehalten werden.
 
-Ein Bürger, der das Gesundheitsamt aufsucht und Kontakt zu einer/m
-Ärztin/ Arzt des Gesundheitsamtes hat, kann daher kein „Klient“,
+Ein Bürger, der das Gesundheitsamt aufsucht und Kontakt zu einer Ärztin
+oder einem Arzt des Gesundheitsamtes hat, kann daher kein „Klient“,
 „Kunde“, „Bürger“ sein, selbst wenn er nur einer Auskunft bedarf -
-er/sie ist immer ein Patient.
+sie/er ist immer ein Patient.
 
 <div class="section fnlist" data-role="doc-footnotes">
 

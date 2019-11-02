@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_01 Der Öffentliche Gesundheitsdienst
+title: 01. Grundlagen zum Öffentlichen Gesundheitsdienst
 nav_order: 1
 ---
  
@@ -24,12 +24,12 @@ Der Öffentliche Gesundheitsdienst (ÖGD) erfüllt als zentraler Akteur der
 Sorge um die Gesundheit der Bevölkerung eine Vielzahl unterschiedlicher
 Aufgaben. Er tut dies
 
-\*mit verschiedenen Bundesbehörden;
+  - mit verschiedenen Bundesbehörden;
 
-\*mit den Landesministerien als oberste Gesundheitsbehörden auf Ebene
-der Bundesländer und ggf. Landesgesundheitsämter;
+  - mit den Landesministerien als oberste Gesundheitsbehörden auf Ebene
+    der Bundesländer und ggf. Landesgesundheitsämter;
 
-\*auf kommunaler Ebene mit den Gesundheitsämtern vor Ort.
+  - auf kommunaler Ebene mit den Gesundheitsämtern vor Ort.
 
 Er ist staatlich bzw. kommunal organisiert und engagiert sich orientiert
 an den Bedürfnissen aller Menschen. Gemeinsam mit der ambulanten und
@@ -56,11 +56,14 @@ gesund hält.
 
 ## Tätigkeiten und Ziele des ÖGD
 
-Die Bundesärzteordnung (BÄO) ist die rechtliche Grundlage ärztlichen
-Handelns. Sie legt in Paragraph 1, Absatz 1 fest: “Der Arzt dient der
-Gesundheit des einzelnen Menschen und des gesamten Volkes”
-(REF:[https://www.gesetze-im-internet.de/b\_o/BJNR018570961.
-html](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html)).
+Die
+[Bundesärzteordnung](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html "Bundesärzteordnung")
+(BÄO) ist die rechtliche Grundlage ärztlichen Handelns. Sie legt in
+Paragraph 1, Absatz 1 fest: “Der Arzt dient der Gesundheit des einzelnen
+Menschen und des gesamten Volkes”
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166820"><span class="citation">(“Bundesärzteordnung,”
+1961)</span></span>.
+
 Während Ärztinnen und Ärzte in der ambulanten und stationären Medizin
 überwiegend individualmedizinisch tätig sind, erfüllen im ÖGD tätige
 Ärztinnen und Ärzte in erster Linie bevölkerungsmedizinische Aufgaben.
@@ -70,8 +73,9 @@ Aufgaben werden anteilig und gleichberechtigt mit anderen Akteuren
 wahrgenommen, die subsidiären Aufgaben werden ersatzweise oder
 unterstützend vom ÖGD durchgeführt.
 
-Ziel des ÖGD ist es, die Gesundheit Aller zu schützen, zu bewahren, zu
-verbessern und die gesundheitliche Chancengleichheit zu erhöhen.
+Ziel des ÖGD ist es, die **Gesundheit** aller zu **schützen**, zu
+**bewahren**, zu **verbessern** und die gesundheitliche
+Chancengleichheit zu erhöhen.
 
 ### Bevölkerungsmedizinische Tätigkeit
 
@@ -95,9 +99,15 @@ rechtlicher und technischer Erfordernisse. Er berät unter anderem zum
 Hygienemanagement von Patientinnen und Patienten mit multiresistenten
 Erregern sowie zum Einsatz von Antibiotika.
 
-Weitere wesentliche Aufgaben des ÖGD sind die Kommunalhygiene und der
-gesundheitliche Umweltschutz, die Umweltmedizin sowie die Beratung im
-Sinne eines gesundheitsbewussten Lebensstils.
+Weitere wesentliche Aufgaben des ÖGD sind:
+
+  - die Kommunalhygiene
+
+  - der gesundheitliche Umweltschutz
+
+  - die Umweltmedizin
+
+  - die Beratung im Sinne eines gesundheitsbewussten Lebensstils.
 
 In allen biologischen, chemischen oder nuklearen Schadenslagen ist der
 ÖGD Teil des Krisenmanagements.
@@ -114,16 +124,17 @@ oder nur einen erschwerten Zugang zur ambulanten oder stationären
 Krankenversorgung haben. Im Rahmen dieses Aufgabenspektrums nutzt der
 ÖGD eine Vielzahl verschiedener Kompetenzen, z.B.:
 
-● AIDS- und STD-Beratungsstellen für die niedrigschwellige Beratung zu
-sexuell übertragbaren Erkrankungen (STD),
+  - AIDS- und STD-Beratungsstellen für die niedrigschwellige Beratung zu
+    sexuell übertragbaren Erkrankungen
+    (STD),
 
-● Behindertenberatungsstellen für die Betreuung chronisch kranker,
-behinderter oder von Behinderung bedrohter Personen und deren
-Angehörigen,
+  - <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">B</span>ehindertenberatungsstellen
+    für die Betreuung chronisch kranker, behinderter oder von
+    Behinderung bedrohter Personen und deren Angehörigen,
 
-● Kinder- und Jugendgesundheitsdienste;
+  - Kinder- und Jugendgesundheitsdienste;
 
-● Sozialpsychiatrischen Dienste.
+  - Sozialpsychiatrischen Dienste.
 
 Bei Erkrankung oder in besonderen gesundheitlichen Lagen mit
 medizinischem Versorgungsbedarf, z.B. bei einer Schwangerschaft, werden
@@ -143,10 +154,10 @@ psychisch kranke Menschen bei der Wohnungssuche.
 
 Aufgabe des kommunalen ÖGD ist die Erstellung amtsärztlicher Gutachten,
 Stellungnahmen und Zeugnisse für z.B. Sozialleistungsträger, Gerichte
-und andere öffentliche Auftraggeber zu bestimmten Fragestellungen wie
-z.B. zur Notwendigkeit und Angemessenheit medizinischer Behandlungen und
-Hilfen, zur Dienstfähigkeit von Beamten oder zur Verhandlungsfähigkeit
-vor Gericht etc.
+und andere öffentliche Auftraggeber. Er hilft bei bestimmten
+Fragestellungen wie z.B. zur Notwendigkeit und Angemessenheit
+medizinischer Behandlungen und Hilfen, zur Dienstfähigkeit von Beamten
+oder zur Verhandlungsfähigkeit vor Gericht etc.
 
 ### Gesundheitsfördernde Tätigkeit
 
@@ -158,18 +169,24 @@ soweit möglich den Gesundheitszustand der gesamten Bevölkerung oder
 bestimmter Bevölkerungsgruppen, um drohende Gefahren festzustellen und
 zu beseitigen oder auf deren Beseitigung hinzuwirken. Dazu gehört auch
 die fachliche Beratung politischer Gremien und Träger öffentlicher
-Auf­gaben zu gesundheitlichen Fragen wie z.B. zur gesundheitlichen
+Auf­gaben zu gesundheitlichen Fragen. z.B. zur gesundheitlichen
 medizinischen Versorgung und zu Planungs- und Gestaltungsaufgaben in der
 Gesundheitsförderung.
 
 Der ÖGD übernimmt planerische und koordinierende Funktionen im Bereich
 der Gesundheitsförderung, der Prävention und der medizinischen
 Versorgung sowie der öffentlichen Hygiene. Er bringt seine moderierenden
-und kommunikativen Kompetenzen in Gesundheitskonferenzen, in Netzwerken,
-die sich sektorenübergreifend für die Prävention von Infektionen mit
-multiresistenten Erregern (MRE) engagieren, bei der kommunalen Planung
-von Gesundheitsförderung und Prävention sowie bei der gerechten
-Verteilung medizinisch-pflegerischer Versorgungsangebote ein.
+und kommunikativen Kompetenzen ein
+
+  - in Gesundheitskonferenzen
+
+  - in Netzwerken, die sich sektorenübergreifend für die Prävention von
+    Infektionen mit multiresistenten Erregern (MRE) engagieren
+
+  - bei der kommunalen Planung von Gesundheitsförderung und Prävention
+
+  - bei der gerechten Verteilung medizinisch-pflegerischer
+    Versorgungsangebote ein.
 
 Der ÖGD strebt damit an, das Prinzip Gesundheit in allen Politikfeldern
 (“health in all policies”) in die Gremien der jeweiligen Handlungsebenen
@@ -184,7 +201,7 @@ Sinne der Daseinsvorsorge, interdisziplinär und multiprofessionell.
 ### Neutral und gemeinwohlorientiert
 
 Der Fokus der Tätigkeit des ÖGD liegt auf dem Gemeinwohl mit
-Konzentration auf fachlich prioritäre Aufgaben. Alle Mitarbeitende des
+Konzentration auf fachlich prioritäre Aufgaben. Alle Mitarbeitenden des
 ÖGD sind unvoreingenommen und ohne persönliche ökonomische Interessen
 tätig. Aufgrund dieser Unabhängigkeit respektieren viele Akteure des
 Gesundheitswesens den ÖGD als kompetente neutrale Instanz und wichtige
@@ -234,17 +251,17 @@ gegenüber staatlichen Akteuren ein.
 ### Multiprofessionell
 
 Der ÖGD erfüllt seine Aufgaben interdisziplinär und multiprofessionell,
-unter anderem mit ÄrztInnen verschiedener Facharztkompetenzen, mit
-Diplom-Psychologen/innen, Diplom-Sozialpädagogen/innen,
-Gesundheitsingenieuren/innen, Gesundheitswissenschaftlern/innen,
-Hygienefachkräften, Hygienekontrolleuren/innen, Medizinischen
-Fachangestellten, Sozialmedizinischen Assistenten/innen,
-Verwaltungsfachkräften, Zahnärzten/innen, Zahnmedizinischen
-Fachangestellten und Zahn-Prophylaxekräften sowie mit Vertretern/innen
+unter anderem mit Ärztinnen verschiedener Facharztkompetenzen, mit
+Diplom-Psycholog/innen, Diplom-Sozialpädagog/innen,
+Gesundheitsingenieur/innen, Gesundheitswissenschaftler/innen,
+Hygienefachkräften, Hygienekontrolleur/innen, Medizinischen
+Fachangestellten, Sozialmedizinischen Assistent/innen,
+Verwaltungsfachkräften, Zahnärzt/innen, Zahnmedizinischen
+Fachangestellten und Zahn-Prophylaxekräften sowie mit Vertreter/innen
 verschiedener weiterer Gesundheits- und Sozialberufe.
 
 Dabei arbeitet der ÖGD partnerschaftlich mit vielen Akteuren aus anderen
-Bereichen zusammen.[\[1\]](#_msocom_1)
+Bereichen zusammen.
 
 ## Finanzierung des ÖGD
 
@@ -278,16 +295,20 @@ Bundesamt 2013, Bundesministerium für Gesundheit 2013).
 
 ## Leitbild des ÖGD
 
-Die 89. Gesundheitsministerkonferenz (GMK) betonte 2016 in ihrem
-Grundsatzbeschluss die unverzichtbare Rolle des ÖGD im Gesundheitswesen,
-ausgehend vom Gesundheitsschutz, der Prävention und Gesundheitsförderung
-bis hin zur Gesundheitsversorgung. Diese Rolle sollte dabei allen
-politischen Ebenen und den Akteuren der Selbstverwaltung im
-Gesundheitswesen stärker präsentiert werden. Auch stellte die GMK fest,
-dass die Bezeichnung des ÖGD als „dritte Säule des Gesundheitswesens”
-neben der ambulanten und der stationären Versorgung die aktuellen
-bevölkerungsmedizinischen Herausforderungen des ÖGD nicht annähernd
-umfassend darstellte. \[REF\]
+Die 89.
+[Gesundheitsministerkonferenz](https://www.gmkonline.de/ "Gesundheitsministerkonferenz")
+(GMK) betonte 2016 in ihrem Grundsatzbeschluss die unverzichtbare Rolle
+des ÖGD im Gesundheitswesen, ausgehend vom Gesundheitsschutz, der
+Prävention und Gesundheitsförderung bis hin zur Gesundheitsversorgung.
+Diese Rolle sollte dabei allen politischen Ebenen und den Akteuren der
+Selbstverwaltung im Gesundheitswesen stärker präsent werden. Auch
+stellte die GMK fest, dass die Bezeichnung des ÖGD als „dritte Säule des
+Gesundheitswesens” neben der ambulanten und der stationären Versorgung
+die aktuellen bevölkerungsmedizinischen Herausforderungen des ÖGD nicht
+annähernd umfassend
+darstellte<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">
+<span class="citation">(Gesundheitsministerkonferenz,
+2018)</span></span>.
 
 Um die Perspektiven für den ÖGD neu zu bestimmen und den ÖGD zu stärken,
 regte die GMK an, die öffentliche Wahrnehmung des OGD durch ein modernes
@@ -298,21 +319,24 @@ entwickeln.
 
 Um die Tätigkeit des ÖGD auch zukünftig effektiv und effizient gestalten
 zu können, wies die GMK 2017 die Arbeitsgemeinschaft der Obersten
-Landesgesundheitsbehörden (AOLG) an, den weiteren Erfahrungsaustausch
-der Länder und der kommunalen Träger des ÖGD über Beispiele guter Praxis
-stetig zu fördern. Sie beauftragte zudem eine länderoffene Arbeitsgruppe
-ÖGD, einen von den Ländern vorbereiteten Leitbildentwurf redaktionell zu
-bearbeiten und einen konkreten Konsultations- und Transferprozess mit
-dem ÖGD und den Verbänden zu organisieren.
+Landesgesundheitsbehörden (AOLG) an: Der weitere Erfahrungsaustausch der
+Länder und der kommunalen Träger des ÖGD soll stetig über Beispiele
+guter Praxis stetig gefördert werden. Sie beauftragte zudem eine
+länderoffene Arbeitsgruppe ÖGD, einen von den Ländern vorbereiteten
+Leitbildentwurf redaktionell zu bearbeiten und einen konkreten
+Konsultations- und Transferprozess mit dem ÖGD und den Verbänden zu
+organisieren.
 
-Insbesondere von Vertreterinnen und Vertretern kommunaler
-Gesundheitsämter wurde ein Arbeitspapier erstellt, das der AOLG und der
-GMK im März 2018 vorgelegt und beraten wurde. Nach Abschluss der 91. GMK
-im März 2018 wurde als einstimmiger Beschluss der Ministerinnen und
-Minister sowie der Senatorinnen und Senatoren für Gesundheit der Länder
-das „Leitbild eines modernen Öffentlichen Gesundheitsdienstes -
-Zuständigkeiten. Ziele. Zukunft.” vorgestellt \[REF\]. Dieses
-formuliert folgende Kernaussagen:
+Insbesondere Vertreterinnen und Vertretern kommunaler Gesundheitsämter
+erstellten ein Arbeitspapier, das sie dem AOLG und der GMK im März 2018
+vorlegten und diese dazu berieten. Nach Abschluss der 91. GMK im März
+2018 wurde als einstimmiger Beschluss der Ministerinnen und Minister
+sowie der Senatorinnen und Senatoren für Gesundheit der Länder das
+„Leitbild eines modernen Öffentlichen Gesundheitsdienstes -
+Zuständigkeiten. Ziele. Zukunft.”
+vorgestellt<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">
+<span class="citation">(Gesundheitsministerkonferenz,
+2018)</span></span>. Dieses formuliert folgende Kernaussagen:
 
 Der Öffentliche Gesundheitsdienst
 
@@ -427,7 +451,7 @@ Württemberg</p></td>
 <td><p>1</p></td>
 <td><p>1,5</p></td>
 <td><p>681.032</p></td>
-<td></td>
+<td><p><a href="https://www.gesundheitsamt.bremen.de/">https://www.gesundheitsamt.bremen.de</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Hamburg</p></td>
@@ -514,7 +538,10 @@ Holstein</p></td>
 </tbody>
 </table>
 
-Abb. Anzahl Gesundheitsämter in Bundesländern und Anzahl Einwohner pro
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">Tabelle
+1</span>. Anzahl
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">der
+</span>Gesundheitsämter in Bundesländern und Anzahl Einwohner pro
 Gesundheitsamt
 
 Im internationalen (englischen) Sprachgebrauch entspricht ein
@@ -524,13 +551,16 @@ specialist for public health care“ bzw. “Consultant in Public Health”.
 Von den 385.149 in Deutschland im Jahr 2017 berufstätigen Ärztinnen und
 Ärzten waren etwa 2.400 Ärztinnen und Ärzte im ÖGD tätig, davon waren
 785 (0,2 Prozent) Fachärztinnen und Fachärzte für Öffentliches
-Gesundheitswesen (Quelle: www.gbe-bund.de., abgerufen Mai
-2019).
+Gesundheitswesen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166840">,
+Stand 10. Mai
+2019</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166830">
+<span class="citation">(Gesundheitsberichterstattung des Bundes,
+2019)</span></span>
 
-![<span class="figure-cat-figure">Figure</span>](b9787139-90f7-4687-8028-1e9fbb0c7e2d.png)
-
-Abb. Anzahl tätige Fachärztinnen und Fachärzte für Öffentliches
-Gesundheitswesen
+![<span class="figure-cat-figure">Figure</span><span data-caption="Anzahl tätiger Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen (Quelle: Bundesärztekammer)">Anzahl
+tätiger Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen
+(Quelle:
+Bundesärztekammer)</span>](b9787139-90f7-4687-8028-1e9fbb0c7e2d.png)
 
 Die Zahl der im ÖGD der Kommunen, der Länder oder des Bundes tätigen
 Ärztinnen und Ärzte sinkt seit Jahren kontinuierlich. Nur ca. 400
@@ -558,10 +588,8 @@ Aus Sicht der Gesundheitsämter hat sich die kommunale
 Gesundheitsberichterstattung als Planungsgrundlage für eine effektive
 und zielgerichtete Ausrichtung der Angebote des ÖGD bewährt.
 
------
+# 
 
-hier noch Genderschreibweise anpassen
-
-<div class="section fnlist" data-role="doc-footnotes">
+<div class="csl-bib-body">
 
 </div>
