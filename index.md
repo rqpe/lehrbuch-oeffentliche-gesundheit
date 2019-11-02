@@ -3,7 +3,7 @@ Das Lehrbuch öffentliche Gesundheit. Von Personen aus dem ÖGD, für Personen a
 
 <h2>Autoren</h2>
 Peter Tinnemann (Editor)
-Rene Gottschalk </br>
+Rene Gottschalk
 Jakob Schumacher
 Franziska Hommes
 usw.
