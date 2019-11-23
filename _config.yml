@@ -18,5 +18,7 @@ github: [metadata]
 aux_links:
   "Lehrbuch auf GitHub":
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
+  "PDF":
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
     
 logo: "akademie.jpeg"
