@@ -62,7 +62,7 @@ Die
 Paragraph 1, Absatz 1 fest: “Der Arzt dient der Gesundheit des einzelnen
 Menschen und des gesamten Volkes”
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26166820"><span class="citation">(“Bundesärzteordnung,”
-1961)</span></span>.
+2019)</span></span>.
 
 Während Ärztinnen und Ärzte in der ambulanten und stationären Medizin
 überwiegend individualmedizinisch tätig sind, erfüllen im ÖGD tätige
