@@ -1,4 +1,5 @@
 
+# Lehrbuch Öffentlicher Gesundheitsdienst
 
 Fachleute aus unterschiedlichen Bereichen im ÖGD, gemeinsam mit
 Lehrenden der Akademie, haben ab 2019 in sogenannten “Book Sprint” in
@@ -17,7 +18,7 @@ umfassende und in sich geschlossene Abhandlung aufgebaut und kann sowohl
 in Ergänzung zu den anderen Büchern gelesen als auch isoliert als
 Nachschlagewerk behandelt werden.
 
-# Methode
+## Methode
 
 Alle Texte wurden mit der sogenannter BookSprints Methode erarbeitet und
 verfasst. Ein BookSprint ist eine agile Methode, um in kurzer Zeit
@@ -48,7 +49,7 @@ Anleitung eines/einer medienpädagogisch erfahrenen BookSprint
 Moderator/-in gemeinsam Inhalte zu ausgewählten Themen die relevant für
 die Arbeit im ÖGD sind.
 
-# Entstehungsprozess
+## Entstehungsprozess
 
 Dieses Lehr- und Handbuch ist ein gemeinsames Projekt der Akademie für
 Öffentliches Gesundheitswesen und des [Open Science

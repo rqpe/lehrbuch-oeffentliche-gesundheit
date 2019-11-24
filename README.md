@@ -1,4 +1,6 @@
 
+# Über das Lehrbuch
+
 Das vorliegende Buch ist ein kostenfrei zugängliches Hand- und Lehrbuch
 (CC BY-NC 4.0). Es ist für Mitarbeiterinnen und Mitarbeiter im
 Öffentlichen Gesundheitsdienst (ÖGD), Interessierte und lebenslang
