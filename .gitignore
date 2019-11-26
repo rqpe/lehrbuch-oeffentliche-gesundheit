@@ -1,8 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-Gemfile
-Gemfile.lock
 rscript/.Rproj.user
 .Rproj
 .zip
