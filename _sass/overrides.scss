@@ -1,3 +1,44 @@
 //
 // Custom overrides from a user.
 //
+ul {
+  list-style: none;
+
+  > li {
+    &::before {
+      position: absolute;
+      margin-left: -1.4em;
+      color: $blue-300;
+      content: "•";
+    }
+  }
+
+  :visited {
+    outline: -webkit-focus-ring-color auto 1px;
+}
+
+ul {
+  list-style: none;
+
+  > li {
+    &::before {
+      position: absolute;
+      margin-left: -1.4em;
+      color: $blue-300;
+      content: "•";
+    }
+  }
+
+  a.navigation-list-link.active {
+      font-weight: 600;
+      color: $blue-300;
+      text-decoration: none;
+  }
+
+  summary {
+      color: $blue-300;
+  }
+
+  .page-content ul, .page-content ol {
+      padding-left: 2em;
+  }

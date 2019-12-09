@@ -1,8 +1,35 @@
 ////
+//// Colors
+////
+$blue-300: #3952a2;
+$blue-aka: #3952a2;
+$sidebar-color: #ebebeb;
+$link-color: $blue-aka;
+$btn-primary-color: $blue-aka;
+
+//
+// Layout override
+//
+
+.page-wrap {
+  border-top: 15px solid $blue-300;
+
+}
+
+
+
+
+
+//.site-header { background-color: $white; }
+
+//@media (min-width: 66.5rem)
+//.site-header, .site-footer {  width: 100%;} //264px
+
+
+////
 //// Typography
 ////
-
-//$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+$body-font-family: -apple-system, BlinkMacSystemFont, "noto sans", helvetica neue, helvetica, roboto, "segoe ui", arial, sans-serif;
 //$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
 //$body-line-height: 1.4;
@@ -60,9 +87,8 @@
 //$body-text-color: $grey-dk-100;
 //$body-heading-color: $grey-dk-300;
 //$search-result-preview-color: $grey-dk-000;
-//$nav-child-link-color: $grey-dk-100;
-//$link-color: $purple-000;
-//$btn-primary-color: $purple-100;
+$nav-child-link-color: $blue-300;
+////$btn-primary-color: $purple-100;
 //$base-button-color: #f7f7f7;
 
 ////

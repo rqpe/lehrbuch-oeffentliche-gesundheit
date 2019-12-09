@@ -13,7 +13,7 @@ search_tokenizer_separator: /[\s/]+/
 
 plugins:
   - jekyll-seo-tag
-  
+
 
 title: Lehrbuch ÖGD
 
@@ -25,3 +25,7 @@ aux_links:
     - "https://akademie-oeffentliches-gesundheitswesen.github.io/lehrbuch-oeffentliche-gesundheit/assets/pdf/lehrbuch-oeffentliche-gesundheit.pdf"
 
 logo: "akademie.jpeg"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 1971 –  2019. Akademie für Öffentliches Gesundheitswesen in Düsseldorf. All rights reserved. </ br>
+All contents of this site constitute the property of Akadamie and may not be copied, reproduced without prior written permission."
